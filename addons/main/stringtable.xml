@@ -1,0 +1,3764 @@
+
+
+	<?xml version="1.0" encoding="utf-8"?>
+
+	<Project name="Redd_Vehicles">
+
+		<Package name= QMAIN_ADDON >
+
+			<Key ID="STR_Redd_Schuetzenpanzer">
+
+				<Original>Infantry Fighting Vehicle</Original>
+				<English>Infantry Fighting Vehicle</English>
+				<Czech>Infantry Fighting Vehicle</Czech>
+				<French>Infantry Fighting Vehicle</French>
+				<German>Schützenpanzer</German>
+				<Italian>Infantry Fighting Vehicle</Italian>
+				<Polish>Infantry Fighting Vehicle</Polish>
+				<Portuguese>Infantry Fighting Vehicle</Portuguese>
+				<Russian>Infantry Fighting Vehicle</Russian>
+				<Spanish>Infantry Fighting Vehicle</Spanish>
+				<Korean>Infantry Fighting Vehicle</Korean>
+				<Japanese>歩兵戦闘車両</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Statisch">
+
+				<Original>Static</Original>
+				<English>Static</English>
+				<Czech>Static</Czech>
+				<French>Static</French>
+				<German>Statisch</German>
+				<Italian>Static</Italian>
+				<Polish>Static</Polish>
+				<Portuguese>Static</Portuguese>
+				<Russian>Static</Russian>
+				<Spanish>Static</Spanish>
+				<Korean>Static</Korean>
+				<Japanese>設置型</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_Rucksaecke">
+
+				<Original>Backpacks</Original>
+				<English>Backpacks</English>
+				<Czech>Backpacks</Czech>
+				<French>Backpacks</French>
+				<German>Rucksäcke</German>
+				<Italian>Backpacks</Italian>
+				<Polish>Backpacks</Polish>
+				<Portuguese>Backpacks</Portuguese>
+				<Russian>Backpacks</Russian>
+				<Spanish>Backpacks</Spanish>
+				<Korean>Backpacks</Korean>
+				<Japanese>バックパック</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_Waffentraeger">
+
+				<Original>Armoured Weapons Carrier</Original>
+				<English>Armoured Weapons Carrier</English>
+				<Czech>Armoured Weapons Carrier</Czech>
+				<French>Armoured Weapons Carrier</French>
+				<German>Waffenträger</German>
+				<Italian>Armoured Weapons Carrier</Italian>
+				<Polish>Armoured Weapons Carrier</Polish>
+				<Portuguese>Armoured Weapons Carrier</Portuguese>
+				<Russian>Armoured Weapons Carrier</Russian>
+				<Spanish>Armoured Weapons Carrier</Spanish>
+				<Korean>Armoured Weapons Carrier</Korean>
+				<Japanese>武器運搬車</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_MG3_500-Schuss-Gurtkasten">
+
+				<Original>MG3 500-Rounds-Belt Box</Original>
+				<English>MG3 500-Rounds-Belt Box</English>
+				<Czech>MG3 500-Rounds-Belt Box</Czech>
+				<French>MG3 500-Rounds-Belt Box</French>
+				<German>MG3 500-Schuss-Gurtkasten</German>
+				<Italian>MG3 500-Rounds-Belt Box</Italian>
+				<Polish>MG3 500-Rounds-Belt Box</Polish>
+				<Portuguese>MG3 500-Rounds-Belt Box</Portuguese>
+				<Russian>MG3 500-Rounds-Belt Box</Russian>
+				<Spanish>MG3 500-Rounds-Belt Box</Spanish>
+				<Korean>MG3 500-Rounds-Belt Box</Korean>
+				<Japanese>MG3 500 発入りベルト弾倉</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_MG3_100-Schuss-Gurtkasten">
+
+				<Original>MG3 100-Rounds-Belt Box</Original>
+				<English>MG3 100-Rounds-Belt Box</English>
+				<Czech>MG3 100-Rounds-Belt Box</Czech>
+				<French>MG3 100-Rounds-Belt Box</French>
+				<German>MG3 100-Schuss-Gurtkasten</German>
+				<Italian>MG3 100-Rounds-Belt Box</Italian>
+				<Polish>MG3 100-Rounds-Belt Box</Polish>
+				<Portuguese>MG3 100-Rounds-Belt Box</Portuguese>
+				<Russian>MG3 100-Rounds-Belt Box</Russian>
+				<Spanish>MG3 100-Rounds-Belt Box</Spanish>
+				<Korean>MG3 100-Rounds-Belt Box</Korean>
+				<Japanese>MG3 100 発入りベルト弾倉</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_Gesichert">
+
+				<Original>Safe</Original>
+				<English>Safe</English>
+				<Czech>Safe</Czech>
+				<French>Safe</French>
+				<German>Sicher</German>
+				<Italian>Safe</Italian>
+				<Polish>Safe</Polish>
+				<Portuguese>Safe</Portuguese>
+				<Russian>Safe</Russian>
+				<Spanish>Safe</Spanish>
+				<Korean>Safe</Korean>
+				<Japanese>安全装置</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_Milan_Rohr_Leer">
+
+				<Original>Milan Tube(empty)</Original>
+				<English>Milan Tube(empty)</English>
+				<Czech>Milan Tube(empty)</Czech>
+				<French>Milan Tube(empty)</French>
+				<German>Milan Rohr(leer)</German>
+				<Italian>Milan Tube(empty)</Italian>
+				<Polish>Milan Tube(empty)</Polish>
+				<Portuguese>Milan Tube(empty)</Portuguese>
+				<Russian>Milan Tube(empty)</Russian>
+				<Spanish>Milan Tube(empty)</Spanish>
+				<Korean>Milan Tube(empty)</Korean>
+				<Japanese>ミラン発射筒 (空)</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_Transportpanzer">
+
+				<Original>Armored Personnel Carrier</Original>
+				<English>Armored Personnel Carrier</English>
+				<Czech>Armored Personnel Carrier</Czech>
+				<French>Armored Personnel Carrier</French>
+				<German>Transportpanzer</German>
+				<Italian>Armored Personnel Carrier</Italian>
+				<Polish>Armored Personnel Carrier</Polish>
+				<Portuguese>Armored Personnel Carrier</Portuguese>
+				<Russian>Armored Personnel Carrier</Russian>
+				<Spanish>Armored Personnel Carrier</Spanish>
+				<Korean>Armored Personnel Carrier</Korean>
+				<Japanese>装甲人員輸送車</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Flugabwehr">
+
+				<Original>Anti-Aircraft</Original>
+				<English>Anti-Aircraft</English>
+				<Czech>Anti-Aircraft</Czech>
+				<French>Anti-Aircraf</French>
+				<German>Flugabwehr</German>
+				<Italian>Anti-Aircraf</Italian>
+				<Polish>Anti-Aircraf</Polish>
+				<Portuguese>Anti-Aircraf</Portuguese>
+				<Russian>Anti-Aircraf</Russian>
+				<Spanish>Anti-Aircraf</Spanish>
+				<Korean>Anti-Aircraf</Korean>
+				<Japanese>対空車両</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Wrecks">
+
+				<Original>Redd'n'Tank Wrecks</Original>
+				<English>Redd'n'Tank Wrecks</English>
+				<Czech>Redd'n'Tank Wrecks</Czech>
+				<French>Redd'n'Tank Wrecks</French>
+				<German>Redd'n'Tank Wracks</German>
+				<Italian>Redd'n'Tank Wrecks</Italian>
+				<Polish>Redd'n'Tank Wrecks</Polish>
+				<Portuguese>Redd'n'Tank Wrecks</Portuguese>
+				<Russian>Redd'n'Tank Wrecks</Russian>
+				<Spanish>Redd'n'Tank Wrecks</Spanish>
+				<Korean>Redd'n'Tank Wrecks</Korean>
+				<Japanese>Redd'n'Tank 残骸</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Trucks">
+
+				<Original>Cars</Original>
+				<English>Cars</English>
+				<Czech>Cars</Czech>
+				<French>Cars</French>
+				<German>Autos</German>
+				<Italian>Cars</Italian>
+				<Polish>Cars</Polish>
+				<Portuguese>Cars</Portuguese>
+				<Russian>Cars</Russian>
+				<Spanish>Cars</Spanish>
+				<Korean>Cars</Korean>
+				<Japanese>車</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Trucks_2">
+
+				<Original>Trucks</Original>
+				<English>Trucks</English>
+				<Czech>Trucks</Czech>
+				<French>Trucks</French>
+				<German>LKWs</German>
+				<Italian>Trucks</Italian>
+				<Polish>Trucks</Polish>
+				<Portuguese>Trucks</Portuguese>
+				<Russian>Trucks</Russian>
+				<Spanish>Trucks</Spanish>
+				<Korean>Trucks</Korean>
+				<Japanese>トラック</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Wiesel_TOW_Wreck">
+
+				<Original>Wiesel 1A2 TOW (Wreck)</Original>
+				<English>Wiesel 1A2 TOW (Wreck)</English>
+				<Czech>Wiesel 1A2 TOW (Wreck)</Czech>
+				<French>Wiesel 1A2 TOW (Wreck)</French>
+				<German>Wiesel 1A2 TOW (Wrack)</German>
+				<Italian>Wiesel 1A2 TOW (Wreck)</Italian>
+				<Polish>Wiesel 1A2 TOW (Wreck)</Polish>
+				<Portuguese>Wiesel 1A2 TOW (Wreck)</Portuguese>
+				<Russian>Wiesel 1A2 TOW (Wreck)</Russian>
+				<Spanish>Wiesel 1A2 TOW (Wreck)</Spanish>
+				<Korean>Wiesel 1A2 TOW (Wreck)</Korean>
+				<Japanese>ヴィーゼル 1A2 TOW (残骸)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Wiesel_MK20_Wreck">
+
+				<Original>Wiesel 1A4 MK20 (Wreck)</Original>
+				<English>Wiesel 1A4 MK20 (Wreck)</English>
+				<Czech>Wiesel 1A4 MK20 (Wreck)</Czech>
+				<French>Wiesel 1A4 MK20 (Wreck)</French>
+				<German>Wiesel 1A4 MK20 (Wrack)</German>
+				<Italian>Wiesel 1A4 MK20 (Wreck)</Italian>
+				<Polish>Wiesel 1A4 MK20 (Wreck)</Polish>
+				<Portuguese>Wiesel 1A4 MK20 (Wreck)</Portuguese>
+				<Russian>Wiesel 1A4 MK20 (Wreck)</Russian>
+				<Spanish>Wiesel 1A4 MK20 (Wreck)</Spanish>
+				<Korean>Wiesel 1A4 MK20 (Wreck)</Korean>
+				<Japanese>ヴィーゼル 1A4 MK20 (残骸)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Fuchs_Wreck">
+
+				<Original>Fuchs 1A4 (Wreck)</Original>
+				<English>Fuchs 1A4 (Wreck)</English>
+				<Czech>Fuchs 1A4 (Wreck)</Czech>
+				<French>Fuchs 1A4 (Wreck)</French>
+				<German>Fuchs 1A4 (Wrack)</German>
+				<Italian>Fuchs 1A4 (Wreck)</Italian>
+				<Polish>Fuchs 1A4 (Wreck)</Polish>
+				<Portuguese>Fuchs 1A4 (Wreck)</Portuguese>
+				<Russian>Fuchs 1A4 (Wreck)</Russian>
+				<Spanish>Fuchs 1A4 (Wreck)</Spanish>
+				<Korean>Fuchs 1A4 (Wreck)</Korean>
+				<Japanese>フクス 1A4 (残骸)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Marder_Wreck">
+
+				<Original>Marder 1A5 (Wreck)</Original>
+				<English>Marder 1A5 (Wreck)</English>
+				<Czech>Marder 1A5 (Wreck)</Czech>
+				<French>Marder 1A5 (Wreck)</French>
+				<German>Marder 1A5 (Wrack)</German>
+				<Italian>Marder 1A5 (Wreck)</Italian>
+				<Polish>Marder 1A5 (Wreck)</Polish>
+				<Portuguese>Marder 1A5 (Wreck)</Portuguese>
+				<Russian>Marder 1A5 (Wreck)</Russian>
+				<Spanish>Marder 1A5 (Wreck)</Spanish>
+				<Korean>Marder 1A5 (Wreck)</Korean>
+				<Japanese>マルダー 1A5 (残骸)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Gepard_Wreck">
+
+				<Original>Gepard 1A2 (Wreck)</Original>
+				<English>Gepard 1A2 (Wreck)</English>
+				<Czech>Gepard 1A2 (Wreck)</Czech>
+				<French>Gepard 1A2 (Wreck)</French>
+				<German>Gepard 1A2 (Wrack)</German>
+				<Italian>Gepard 1A2 (Wreck)</Italian>
+				<Polish>Gepard 1A2 (Wreck)</Polish>
+				<Portuguese>Gepard 1A2 (Wreck)</Portuguese>
+				<Russian>Gepard 1A2 (Wreck)</Russian>
+				<Spanish>Gepard 1A2 (Wreck)</Spanish>
+				<Korean>Gepard 1A2 (Wreck)</Korean>
+				<Japanese>ゲパルト 1A2 (残骸)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Wolf_Wreck">
+
+				<Original>LKW leicht gl "Wolf" (Wreck)</Original>
+				<English>LKW leicht gl "Wolf" (Wreck)</English>
+				<Czech>LKW leicht gl "Wolf" (Wreck)</Czech>
+				<French>LKW leicht gl "Wolf" (Wreck)</French>
+				<German>LKW leicht gl "Wolf" (Wrack)</German>
+				<Italian>LKW leicht gl "Wolf" (Wreck)</Italian>
+				<Polish>LKW leicht gl "Wolf" (Wreck)</Polish>
+				<Portuguese>LKW leicht gl "Wolf" (Wreck)</Portuguese>
+				<Russian>LKW leicht gl "Wolf" (Wreck)</Russian>
+				<Spanish>LKW leicht gl "Wolf" (Wreck)</Spanish>
+				<Korean>LKW leicht gl "Wolf" (Wreck)</Korean>
+				<Japanese>軽トラック gl "ウルフ" (残骸)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_Luchs_Wreck">
+
+				<Original>Reconnaissance Tank 2A2 "Luchs" (Wreck)</Original>
+				<English>Reconnaissance Tank 2A2 "Luchs" (Wreck)</English>
+				<Czech>Reconnaissance Tank 2A2 "Luchs" (Wreck)</Czech>
+				<French>Reconnaissance Tank 2A2 "Luchs" (Wreck)</French>
+				<German>Spähpanzer 2A2 "Luchs" (Wrack)</German>
+				<Italian>Reconnaissance Tank 2A2 "Luchs" (Wreck)</Italian>
+				<Polish>Reconnaissance Tank 2A2 "Luchs" (Wreck)</Polish>
+				<Portuguese>Reconnaissance Tank 2A2 "Luchs" (Wreck)</Portuguese>
+				<Russian>Reconnaissance Tank 2A2 "Luchs" (Wreck)</Russian>
+				<Spanish>Reconnaissance Tank 2A2 "Luchs" (Wreck)</Spanish>
+				<Korean>Reconnaissance Tank 2A2 "Luchs" (Wreck)</Korean>
+				<Japanese>装甲偵察車両 2A2 "ルクス" (残骸)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_120mm_HE_Box">
+
+				<Original>120mm HE Rounds Box</Original>
+				<English>120mm HE Rounds Box</English>
+				<Czech>120mm HE Rounds Box</Czech>
+				<French>120mm HE Rounds Box</French>
+				<German>120mm Sprengpatronenkiste</German>
+				<Italian>120mm HE Rounds Box</Italian>
+				<Polish>120mm HE Rounds Box</Polish>
+				<Portuguese>120mm HE Rounds Box</Portuguese>
+				<Russian>120mm HE Rounds Box</Russian>
+				<Spanish>120mm HE Rounds Box</Spanish>
+				<Korean>120mm HE Rounds Box</Korean>
+				<Japanese>120mm HE 弾薬箱</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_120mm_HE_annz_Box">
+
+				<Original>120mm HE Proximit Rounds Box</Original>
+				<English>120mm HE Proximit Rounds Box</English>
+				<Czech>120mm HE Proximit Rounds Box</Czech>
+				<French>120mm HE Proximit Rounds Box</French>
+				<German>120mm Sprengpatronen Annäherungszünder Kiste</German>
+				<Italian>120mm HE Proximit Rounds Box</Italian>
+				<Polish>120mm HE Proximit Rounds Box</Polish>
+				<Portuguese>120mm HE Proximit Rounds Box</Portuguese>
+				<Russian>120mm HE Proximit Rounds Box</Russian>
+				<Spanish>120mm HE Proximit Rounds Box</Spanish>
+				<Korean>120mm HE Proximit Rounds Box</Korean>
+				<Japanese>120mm HE 近接信管 弾薬箱</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_120mm_Smoke_Box">
+
+				<Original>120mm Smoke Rounds Box</Original>
+				<English>120mm Smoke Rounds Box</English>
+				<Czech>120mm Smoke Rounds Box</Czech>
+				<French>120mm Smoke Rounds Box</French>
+				<German>120mm Nebelpatronenkiste</German>
+				<Italian>120mm Smoke Rounds Box</Italian>
+				<Polish>120mm Smoke Rounds Box</Polish>
+				<Portuguese>120mm Smoke Rounds Box</Portuguese>
+				<Russian>120mm Smoke Rounds Box</Russian>
+				<Spanish>120mm Smoke Rounds Box</Spanish>
+				<Korean>120mm Smoke Rounds Box</Korean>
+				<Japanese>120mm 発煙 弾薬箱</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_120mm_Flare_Box">
+
+				<Original>120mm Illumination Rounds Box</Original>
+				<English>120mm Illumination Rounds Box</English>
+				<Czech>120mm Illumination Rounds Box</Czech>
+				<French>120mm Illumination Rounds Box</French>
+				<German>120mm Illumpatronenkiste</German>
+				<Italian>120mm Illumination Rounds Box</Italian>
+				<Polish>120mm Illumination Rounds Box</Polish>
+				<Portuguese>120mm Illumination Rounds Box</Portuguese>
+				<Russian>120mm Illumination Rounds Box</Russian>
+				<Spanish>120mm Illumination Rounds Box</Spanish>
+				<Korean>120mm Illumination Rounds Box</Korean>
+				<Japanese>120mm 照明 弾薬箱</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_120mm_Mixed_Box">
+
+				<Original>120mm Mixed Rounds Box</Original>
+				<English>120mm Mixed Rounds Box</English>
+				<Czech>120mm Mixed Rounds Box</Czech>
+				<French>120mm Mixed Rounds Box</French>
+				<German>120mm gemischte Patronenkiste</German>
+				<Italian>120mm Mixed Rounds Box</Italian>
+				<Polish>120mm Mixed Rounds Box</Polish>
+				<Portuguese>120mm Mixed Rounds Box</Portuguese>
+				<Russian>120mm Mixed Rounds Box</Russian>
+				<Spanish>120mm Mixed Rounds Box</Spanish>
+				<Korean>120mm Mixed Rounds Box</Korean>
+				<Japanese>120mm 混合 弾薬箱</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_120mm_HE">
+
+				<Original>120mm HE Round</Original>
+				<English>120mm HE Round</English>
+				<Czech>120mm HE Round</Czech>
+				<French>120mm HE Round</French>
+				<German>120mm Sprengpatrone</German>
+				<Italian>120mm HE Round</Italian>
+				<Polish>120mm HE Round</Polish>
+				<Portuguese>120mm HE Round</Portuguese>
+				<Russian>120mm HE Round</Russian>
+				<Spanish>120mm HE Round</Spanish>
+				<Korean>120mm HE Round</Korean>
+				<Japanese>120mm HE 弾</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_120mm_HE_annz">
+
+				<Original>120mm HE Proximit Round</Original>
+				<English>120mm HE Proximit Round</English>
+				<Czech>120mm HE Proximit Round</Czech>
+				<French>120mm HE Proximit Round</French>
+				<German>120mm Sprengpatrone Annäherungszünder</German>
+				<Italian>120mm HE Proximit Round</Italian>
+				<Polish>120mm HE Proximit Round</Polish>
+				<Portuguese>120mm HE Proximit Round</Portuguese>
+				<Russian>120mm HE Proximit Round</Russian>
+				<Spanish>120mm HE Proximit Round</Spanish>
+				<Korean>120mm HE Proximit Round</Korean>
+				<Japanese>120mm HE 近接信管弾</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_120mm_Flare">
+
+				<Original>120mm Illumination Round</Original>
+				<English>120mm Illumination Round</English>
+				<Czech>120mm Illumination Round</Czech>
+				<French>120mm Illumination Round</French>
+				<German>120mm Illum-Patrone</German>
+				<Italian>120mm Illumination Round</Italian>
+				<Polish>120mm Illumination Round</Polish>
+				<Portuguese>120mm Illumination Round</Portuguese>
+				<Russian>120mm Illumination Round</Russian>
+				<Spanish>120mm Illumination Round</Spanish>
+				<Korean>120mm Illumination Round</Korean>
+				<Japanese>120mm 照明弾</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_120mm_Smoke">
+
+				<Original>120mm Smoke Round</Original>
+				<English>120mm Smoke Round</English>
+				<Czech>120mm Smoke Round</Czech>
+				<French>120mm Smoke Round</French>
+				<German>120mm Nebelpatrone</German>
+				<Italian>120mm Smoke Round</Italian>
+				<Polish>120mm Smoke Round</Polish>
+				<Portuguese>120mm Smoke Round</Portuguese>
+				<Russian>120mm Smoke Round</Russian>
+				<Spanish>120mm Smoke Round</Spanish>
+				<Korean>120mm Smoke Round</Korean>
+				<Japanese>120mm 発煙弾</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_m120_barrel">
+
+				<Original>M120 Barrel</Original>
+				<English>M120 Barrel</English>
+				<Czech>M120 Barrel</Czech>
+				<French>M120 Barrel</French>
+				<German>M120 Rohr</German>
+				<Italian>M120 Barrel</Italian>
+				<Polish>M120 Barrel</Polish>
+				<Portuguese>M120 Barrel</Portuguese>
+				<Russian>M120 Barrel</Russian>
+				<Spanish>M120 Barrel</Spanish>
+				<Korean>M120 Barrel</Korean>
+				<Japanese>M120 砲身</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_m120_base">
+
+				<Original>M120 Base</Original>
+				<English>M120 Base</English>
+				<Czech>M120 Base</Czech>
+				<French>M120 Base</French>
+				<German>M120 Bodenplatte</German>
+				<Italian>M120 Base</Italian>
+				<Polish>M120 Base</Polish>
+				<Portuguese>M120 Base</Portuguese>
+				<Russian>M120 Base</Russian>
+				<Spanish>M120 Base</Spanish>
+				<Korean>M120 Base</Korean>
+				<Japanese>M120 底盤</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_close">
+
+				<Original>Charge 0</Original>
+				<English>Charge 0</English>
+				<Czech>Charge 0</Czech>
+				<French>Charge 0</French>
+				<German>Ladung 0</German>
+				<Italian>Charge 0</Italian>
+				<Polish>Charge 0</Polish>
+				<Portuguese>Charge 0</Portuguese>
+				<Russian>Charge 0</Russian>
+				<Spanish>Charge 0</Spanish>
+				<Korean>Charge 0</Korean>
+				<Japanese>装薬 0</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_medium">
+
+				<Original>Charge 1</Original>
+				<English>Charge 1</English>
+				<Czech>Charge 1</Czech>
+				<French>Charge 1</French>
+				<German>Ladung 1</German>
+				<Italian>Charge 1</Italian>
+				<Polish>Charge 1</Polish>
+				<Portuguese>Charge 1</Portuguese>
+				<Russian>Charge 1</Russian>
+				<Spanish>Charge 1</Spanish>
+				<Korean>Charge 1</Korean>
+				<Japanese>装薬 1</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_far">
+
+				<Original>Charge 2</Original>
+				<English>Charge 2</English>
+				<Czech>Charge 2</Czech>
+				<French>Charge 2</French>
+				<German>Ladung 2</German>
+				<Italian>Charge 2</Italian>
+				<Polish>Charge 2</Polish>
+				<Portuguese>Charge 2</Portuguese>
+				<Russian>Charge 2</Russian>
+				<Spanish>Charge 2</Spanish>
+				<Korean>Charge 2</Korean>
+				<Japanese>装薬 2</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_farther">
+
+				<Original>Charge 3</Original>
+				<English>Charge 3</English>
+				<Czech>Charge 3</Czech>
+				<French>Charge 3</French>
+				<German>Ladung 3</German>
+				<Italian>Charge 3</Italian>
+				<Polish>Charge 3</Polish>
+				<Portuguese>Charge 3</Portuguese>
+				<Russian>Charge 3</Russian>
+				<Spanish>Charge 3</Spanish>
+				<Korean>Charge 3</Korean>
+				<Japanese>装薬 3</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Marder_1A5">
+				<Original>Marder 1A5</Original>
+				<English>Marder 1A5</English>
+				<Czech>Marder 1A5</Czech>
+				<French>Marder 1A5</French>
+				<German>Marder 1A5</German>
+				<Italian>Marder 1A5</Italian>
+				<Polish>Marder 1A5</Polish>
+				<Portuguese>Marder 1A5</Portuguese>
+				<Russian>Marder 1A5</Russian>
+				<Spanish>Marder 1A5</Spanish>
+				<Korean>Marder 1A5</Korean>
+				<Japanese>マルダー 1A5</Japanese>
+			</Key>
+
+			<Key ID="STR_Dachluke_links">
+				<Original>Left Hatch</Original>
+				<English>Left Hatch</English>
+				<Czech>Left Hatch</Czech>
+				<French>Left Hatch</French>
+				<German>Linke Luke</German>
+				<Italian>Left Hatch</Italian>
+				<Polish>Left Hatch</Polish>
+				<Portuguese>Left Hatch</Portuguese>
+				<Russian>Left Hatch</Russian>
+				<Spanish>Left Hatch</Spanish>
+				<Korean>Left Hatch</Korean>
+				<Japanese>左ハッチ</Japanese>
+			</Key>
+
+			<Key ID="STR_Dachluke_rechts">
+				<Original>Right Hatch</Original>
+				<English>Right Hatch</English>
+				<Czech>Right Hatch</Czech>
+				<French>Right Hatch</French>
+				<German>Rechte Luke</German>
+				<Italian>Right Hatch</Italian>
+				<Polish>Right Hatch</Polish>
+				<Portuguese>Right Hatch</Portuguese>
+				<Russian>Right Hatch</Russian>
+				<Spanish>Right Hatch</Spanish>
+				<Korean>Right Hatch</Korean>
+				<Japanese>右ハッチ</Japanese>
+			</Key>
+
+			<Key ID="STR_Dachluke_hinten">
+				<Original>Middle Hatch</Original>
+				<English>Middle Hatch</English>
+				<Czech>Middle Hatch</Czech>
+				<French>Middle Hatch</French>
+				<German>Mittlere Luke</German>
+				<Italian>Middle Hatch</Italian>
+				<Polish>Middle Hatch</Polish>
+				<Portuguese>Middle Hatch</Portuguese>
+				<Russian>Middle Hatch</Russian>
+				<Spanish>Middle Hatch</Spanish>
+				<Korean>Middle Hatch</Korean>
+				<Japanese>中央ハッチ</Japanese>
+			</Key>
+
+			<Key ID="STR_heckluke_auf">
+				<Original>Open Rear Ramp</Original>
+				<English>Open Rear Ramp</English>
+				<Czech>Open Rear Ramp</Czech>
+				<French>Open Rear Ramp</French>
+				<German>Heckluke Öffnen</German>
+				<Italian>Open Rear Ramp</Italian>
+				<Polish>Open Rear Ramp</Polish>
+				<Portuguese>Open Rear Ramp</Portuguese>
+				<Russian>Open Rear Ramp</Russian>
+				<Spanish>Open Rear Ramp</Spanish>
+				<Korean>Open Rear Ramp</Korean>
+				<Japanese>後部ランプを開ける</Japanese>
+			</Key>
+
+			<Key ID="STR_heckluke_zu">
+				<Original>Close Rear Ramp</Original>
+				<English>Close Rear Ramp</English>
+				<Czech>Close Rear Ramp</Czech>
+				<French>Close Rear Ramp</French>
+				<German>Heckluke Schließen</German>
+				<Italian>Close Rear Ramp</Italian>
+				<Polish>Close Rear Ramp</Polish>
+				<Portuguese>Close Rear Ramp</Portuguese>
+				<Russian>Close Rear Ramp</Russian>
+				<Spanish>Close Rear Ramp</Spanish>
+				<Korean>Close Rear Ramp</Korean>
+				<Japanese>後部ランプを閉じる</Japanese>
+			</Key>
+
+			<Key ID="STR_milan_auf">
+				<Original>Mount Milan</Original>
+				<English>Mount Milan</English>
+				<Czech>Mount Milan</Czech>
+				<French>Mount Milan</French>
+				<German>Milan Montieren</German>
+				<Italian>Mount Milan</Italian>
+				<Polish>Mount Milan</Polish>
+				<Portuguese>Mount Milan</Portuguese>
+				<Russian>Mount Milan</Russian>
+				<Spanish>Mount Milan</Spanish>
+				<Korean>Mount Milan</Korean>
+				<Japanese>ミランを搭載</Japanese>
+			</Key>
+
+			<Key ID="STR_milan_ab">
+				<Original>Disassemble Milan</Original>
+				<English>Disassemble Milan</English>
+				<Czech>Disassemble Milan</Czech>
+				<French>Disassemble Milan</French>
+				<German>Milan Demontieren</German>
+				<Italian>Disassemble Milan</Italian>
+				<Polish>Disassemble Milan</Polish>
+				<Portuguese>Disassemble Milan</Portuguese>
+				<Russian>Disassemble Milan</Russian>
+				<Spanish>Disassemble Milan</Spanish>
+				<Korean>Disassemble Milan</Korean>
+				<Japanese>ミランを解体</Japanese>
+			</Key>
+
+			<Key ID="STR_milan_in">
+				<Original>Get In Milan</Original>
+				<English>Get In Milan</English>
+				<Czech>Get In Milan</Czech>
+				<French>Get In Milan</French>
+				<German>In Milan Einsteigen</German>
+				<Italian>Get In Milan</Italian>
+				<Polish>Get In Milan</Polish>
+				<Portuguese>Get In Milan</Portuguese>
+				<Russian>Get In Milan</Russian>
+				<Spanish>Get In Milan</Spanish>
+				<Korean>Get In Milan</Korean>
+				<Japanese>ミランを使う</Japanese>
+			</Key>
+
+			<Key ID="STR_milan_aus">
+				<Original>Get Out Of Milan</Original>
+				<English>Get Out Of Milan</English>
+				<Czech>Get Out Of Milan</Czech>
+				<French>Get Out Of Milan</French>
+				<German>Aus Milan Aussteigen</German>
+				<Italian>Get Out Of Milan</Italian>
+				<Polish>Get Out Of Milan</Polish>
+				<Portuguese>Get Out Of Milan</Portuguese>
+				<Russian>Get Out Of Milan</Russian>
+				<Spanish>Get Out Ofn Milan</Spanish>
+				<Korean>Get Out Of Milan</Korean>
+				<Japanese>ミランから出る</Japanese>
+			</Key>
+
+			<Key ID="STR_Marder_1A5_Flecktarn">
+				<Original>Marder 1A5 (Woodland)</Original>
+				<English>Marder 1A5 (Woodland)</English>
+				<Czech>Marder 1A5 (Woodland)</Czech>
+				<French>Marder 1A5 (Woodland)</French>
+				<German>Marder 1A5 (Flecktarn)</German>
+				<Italian>Marder 1A5 (Woodland)</Italian>
+				<Polish>Marder 1A5 (Woodland)</Polish>
+				<Portuguese>Marder 1A5 (Woodland)</Portuguese>
+				<Russian>Marder 1A5 (Woodland)</Russian>
+				<Spanish>Marder 1A5 (Woodland)</Spanish>
+				<Korean>Marder 1A5 (Woodland)</Korean>
+				<Japanese>マルダー 1A5 (森林迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_Marder_1A5_Tropentarn">
+				<Original>Marder 1A5 (Desert)</Original>
+				<English>Marder 1A5 (Desert)</English>
+				<Czech>Marder 1A5 (Desert)</Czech>
+				<French>Marder 1A5 (Desert)</French>
+				<German>Marder 1A5 (Wüste)</German>
+				<Italian>Marder 1A5 (Desert)</Italian>
+				<Polish>Marder 1A5 (Desert)</Polish>
+				<Portuguese>Marder 1A5 (Desert)</Portuguese>
+				<Russian>Marder 1A5 (Desert)</Russian>
+				<Spanish>Marder 1A5 (Desert)</Spanish>
+				<Korean>Marder 1A5 (Desert)</Korean>
+				<Japanese>マルダー 1A5 (砂漠迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_Marder_1A5_Winter">
+				<Original>Marder 1A5 (Winter)</Original>
+				<English>Marder 1A5 (Winter)</English>
+				<Czech>Marder 1A5 (Winter)</Czech>
+				<French>Marder 1A5 (Winter)</French>
+				<German>Marder 1A5 (Winter)</German>
+				<Italian>Marder 1A5 (Winter)</Italian>
+				<Polish>Marder 1A5 (Winter)</Polish>
+				<Portuguese>Marder 1A5 (Winter)</Portuguese>
+				<Russian>Marder 1A5 (Winter)</Russian>
+				<Spanish>Marder 1A5 (Winter)</Spanish>
+				<Korean>Marder 1A5 (Winter)</Korean>
+				<Japanese>マルダー 1A5 (冬季迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_Durch_Winkelspiegel_sehen">
+				<Original>Look Through Periscope Mirrors</Original>
+				<English>Look Through Periscope Mirrors</English>
+				<Czech>Look Through Periscope Mirrors</Czech>
+				<French>Look Through Periscope Mirrors</French>
+				<German>Durch Winkelspiegel sehen</German>
+				<Italian>Look Through Periscope Mirrors</Italian>
+				<Polish>Look Through Periscope Mirrors</Polish>
+				<Portuguese>Look Through Periscope Mirrors</Portuguese>
+				<Russian>Look Through Periscope Mirrors</Russian>
+				<Spanish>Look Through Periscope Mirrors</Spanish>
+				<Korean>Look Through Periscope Mirrors</Korean>
+				<Japanese>ペリスコープから見る</Japanese>
+			</Key>
+
+			<Key ID="STR_Wieder_hinsetzen">
+				<Original>Sit Down</Original>
+				<English>Sit Down</English>
+				<Czech>Sit Down</Czech>
+				<French>Sit Down</French>
+				<German>Wieder hinsetzen</German>
+				<Italian>Sit Down</Italian>
+				<Polish>Sit Down</Polish>
+				<Portuguese>Sit Down</Portuguese>
+				<Russian>Sit Down</Russian>
+				<Spanish>Sit Down</Spanish>
+				<Korean>Sit Down</Korean>
+				<Japanese>座る</Japanese>
+			</Key>
+
+			<Key ID="STR_Hoeher_steigen">
+				<Original>Climb Up</Original>
+				<English>Climb Up</English>
+				<Czech>Climb Up</Czech>
+				<French>Climb Up</French>
+				<German>Höher steigen</German>
+				<Italian>Climb Up</Italian>
+				<Polish>Climb Up</Polish>
+				<Portuguese>Climb Up</Portuguese>
+				<Russian>Climb Up</Russian>
+				<Spanish>Climb Up</Spanish>
+				<Korean>Climb Up</Korean>
+				<Japanese>身を乗り出す</Japanese>
+			</Key>
+
+			<Key ID="STR_Tiefer_steigen">
+				<Original>Climb Down</Original>
+				<English>Climb Down</English>
+				<Czech>Climb Down</Czech>
+				<French>Climb Down</French>
+				<German>Tiefer steigen</German>
+				<Italian>Climb Down</Italian>
+				<Polish>Climb Down</Polish>
+				<Portuguese>Climb Down</Portuguese>
+				<Russian>Climb Down</Russian>
+				<Spanish>Climb Down</Spanish>
+				<Korean>Climb Down</Korean>
+				<Japanese>かがむ</Japanese>
+			</Key>
+
+			<Key ID="STR_Spiegel_einklappen">
+				<Original>Fold Mirrors</Original>
+				<English>Fold Mirrors</English>
+				<Czech>Fold Mirrors</Czech>
+				<French>Fold Mirrors</French>
+				<German>Spiegel einklappen</German>
+				<Italian>Fold Mirrors</Italian>
+				<Polish>Fold Mirrors</Polish>
+				<Portuguese>Fold Mirrors</Portuguese>
+				<Russian>Fold Mirrors</Russian>
+				<Spanish>Fold Mirrors</Spanish>
+				<Korean>Fold Mirrors</Korean>
+				<Japanese>ミラーを畳む</Japanese>
+			</Key>
+
+			<Key ID="STR_Spiegel_ausklappen">
+				<Original>Unfold Mirrors</Original>
+				<English>Unfold Mirrors</English>
+				<Czech>Unfold Mirrors</Czech>
+				<French>Unfold Mirrors</French>
+				<German>Spiegel ausklappen</German>
+				<Italian>Unfold Mirrors</Italian>
+				<Polish>Unfold Mirrors</Polish>
+				<Portuguese>Unfold Mirrors</Portuguese>
+				<Russian>Unfold Mirrors</Russian>
+				<Spanish>Unfold Mirrors</Spanish>
+				<Korean>Unfold Mirrors</Korean>
+				<Japanese>ミラーを広げる</Japanese>
+			</Key>
+
+			<Key ID="STR_Tarnbeleuchtung_hinten_ein">
+				<Original>Turn On B.O.Light (Rear)</Original>
+				<English>Turn On B.O.Light (Rear)</English>
+				<Czech>Turn On B.O.Light (Rear)</Czech>
+				<French>Turn On B.O.Light (Rear)</French>
+				<German>Tarnbeleuchtung einschalten (Hinten) </German>
+				<Italian>Turn On B.O.Light (Rear)</Italian>
+				<Polish>Turn On B.O.Light (Rear)</Polish>
+				<Portuguese>Turn On B.O.Light (Rear)</Portuguese>
+				<Russian>Turn On B.O.Light (Rear)</Russian>
+				<Spanish>Turn On B.O.Light (Rear)</Spanish>
+				<Korean>Turn On B.O.Light (Rear)</Korean>
+				<Japanese>B.O.ライトを点灯 (後部)</Japanese>
+			</Key>
+
+			<Key ID="STR_Tarnbeleuchtung_hinten_aus">
+				<Original>Turn Off B.O.Light (Rear)</Original>
+				<English>Turn Off B.O.Light (Rear)</English>
+				<Czech>Turn Off B.O.Light (Rear)</Czech>
+				<French>Turn Off B.O.Light (Rear)</French>
+				<German>Tarnbeleuchtung ausschalten (Hinten)</German>
+				<Italian>Turn Off B.O.Light (Rear)</Italian>
+				<Polish>Turn Off B.O.Light (Rear)</Polish>
+				<Portuguese>Turn Off B.O.Light (Rear)</Portuguese>
+				<Russian>Turn Off B.O.Light (Rear)</Russian>
+				<Spanish>Turn Off B.O.Light (Rear)</Spanish>
+				<Korean>Turn Off B.O.Light (Rear)</Korean>
+				<Japanese>B.O.ライトを消灯 (後部)</Japanese>
+			</Key>
+
+				<Key ID="STR_Tarnbeleuchtung_vorne_ein">
+				<Original>Turn On B.O.Light (Front)</Original>
+				<English>Turn On B.O.Light (Front)</English>
+				<Czech>Turn On B.O.Light (Front)</Czech>
+				<French>Turn On B.O.Light (Front)</French>
+				<German>Tarnbeleuchtung einschalten (Vorne)</German>
+				<Italian>Turn On B.O.Light (Front)</Italian>
+				<Polish>Turn On B.O.Light (Front)</Polish>
+				<Portuguese>Turn On B.O.Light (Front)</Portuguese>
+				<Russian>Turn On B.O.Light (Front)</Russian>
+				<Spanish>Turn On B.O.Light (Front)</Spanish>
+				<Korean>Turn On B.O.Light (Front)</Korean>
+				<Japanese>B.O.ライトを点灯 (前部)</Japanese>
+			</Key>
+
+			<Key ID="STR_Tarnbeleuchtung_vorne_aus">
+				<Original>Turn Off B.O.Light (Front)</Original>
+				<English>Turn Off B.O.Light (Front)</English>
+				<Czech>Turn Off B.O.Light (Front)</Czech>
+				<French>Turn Off B.O.Light (Front)</French>
+				<German>Tarnbeleuchtung ausschalten (Vorne)</German>
+				<Italian>Turn Off B.O.Light (Front)</Italian>
+				<Polish>Turn Off B.O.Light (Front)</Polish>
+				<Portuguese>Turn Off B.O.Light (Front)</Portuguese>
+				<Russian>Turn Off B.O.Light (Front)</Russian>
+				<Spanish>Turn Off B.O.Light (Front)</Spanish>
+				<Korean>Turn Off B.O.Light (Front)</Korean>
+				<Japanese>B.O.ライトを消灯 (前部)</Japanese>
+			</Key>
+
+			<Key ID="STR_Tarnbeleuchtung_rundum_ein">
+				<Original>Turn On B.O.Light (Front and Rear)</Original>
+				<English>Turn On B.O.Light (Front and Rear)</English>
+				<Czech>Turn On B.O.Light (Front and Rear)</Czech>
+				<French>Turn On B.O.Light (Front and Rear)</French>
+				<German>Tarnbeleuchtung einschalten (Vorne und Hinten)</German>
+				<Italian>Turn On B.O.Light (Front and Rear)</Italian>
+				<Polish>Turn On B.O.Light (Front and Rear)</Polish>
+				<Portuguese>Turn On B.O.Light (Front and Rear)</Portuguese>
+				<Russian>Turn On B.O.Light (Front and Rear)</Russian>
+				<Spanish>Turn On B.O.Light (Front and Rear)</Spanish>
+				<Korean>Turn On B.O.Light (Front and Rear)</Korean>
+				<Japanese>B.O.Light を点灯 (両側)</Japanese>
+			</Key>
+
+			<Key ID="STR_Tarnbeleuchtung_rundum_aus">
+				<Original>Turn Off B.O.Light (Front and Rear)</Original>
+				<English>Turn Off B.O.Light (Front and Rear)</English>
+				<Czech>Turn Off B.O.Light (Front and Rear)</Czech>
+				<French>Turn Off B.O.Light (Front and Rear)</French>
+				<German>Tarnbeleuchtung ausschalten (Vorne und Hinten)</German>
+				<Italian>Turn Off B.O.Light (Front and Rear)</Italian>
+				<Polish>Turn Off B.O.Light (Front and Rear)</Polish>
+				<Portuguese>Turn Off B.O.Light (Front and Rear)</Portuguese>
+				<Russian>Turn Off B.O.Light (Front and Rear)</Russian>
+				<Spanish>Turn Off B.O.Light (Front and Rear)</Spanish>
+				<Korean>Turn Off B.O.Light (Front and Rear)</Korean>
+				<Japanese>B.O.Light を消灯 (両側)</Japanese>
+			</Key>
+
+			<Key ID="STR_Sandsaecke_aufbauen">
+				<Original>Build Sandbags</Original>
+				<English>Build Sandbags</English>
+				<Czech>Build Sandbags</Czech>
+				<French>Build Sandbags</French>
+				<German>Sandsäcke aufbauen</German>
+				<Italian>Build Sandbags</Italian>
+				<Polish>Build Sandbags</Polish>
+				<Portuguese>Build Sandbags</Portuguese>
+				<Russian>Build Sandbags</Russian>
+				<Spanish>Build Sandbags</Spanish>
+				<Korean>Build Sandbags</Korean>
+				<Japanese>土のうを作る</Japanese>
+			</Key>
+
+			<Key ID="STR_Sandsaecke_abbauen">
+				<Original>Remove Sandbags</Original>
+				<English>Remove Sandbags</English>
+				<Czech>Remove Sandbags</Czech>
+				<French>Remove Sandbags</French>
+				<German>Sandsäcke abbauen</German>
+				<Italian>Remove Sandbags</Italian>
+				<Polish>Remove Sandbags</Polish>
+				<Portuguese>Remove Sandbags</Portuguese>
+				<Russian>Remove Sandbags</Russian>
+				<Spanish>Remove Sandbags</Spanish>
+				<Korean>Remove Sandbags</Korean>
+				<Japanese>土のうを退ける</Japanese>
+			</Key>
+
+			<Key ID="STR_Random">
+				<Original>Random</Original>
+				<English>Random</English>
+				<Czech>Random</Czech>
+				<French>Random</French>
+				<German>Zufällig</German>
+				<Italian>Random</Italian>
+				<Polish>Random</Polish>
+				<Portuguese>Random</Portuguese>
+				<Russian>Random</Russian>
+				<Spanish>Random</Spanish>
+				<Korean>Random</Korean>
+				<Japanese>ランダム</Japanese>
+			</Key>
+
+			<Key ID="STR_Bataillon">
+				<Original>Battalion</Original>
+				<English>Battalion</English>
+				<Czech>Battalion</Czech>
+				<French>Battalion</French>
+				<German>Bataillon</German>
+				<Italian>Battalion</Italian>
+				<Polish>Battalion</Polish>
+				<Portuguese>Battalion</Portuguese>
+				<Russian>Battalion</Russian>
+				<Spanish>Battalion</Spanish>
+				<Korean>Battalion</Korean>
+				<Japanese>大隊</Japanese>
+			</Key>
+
+			<Key ID="STR_Kompanie">
+				<Original>Company</Original>
+				<English>Company</English>
+				<Czech>Company</Czech>
+				<French>Company</French>
+				<German>Kompanie</German>
+				<Italian>Company</Italian>
+				<Polish>Company</Polish>
+				<Portuguese>Company</Portuguese>
+				<Russian>Company</Russian>
+				<Spanish>Company</Spanish>
+				<Korean>Company</Korean>
+				<Japanese>中隊</Japanese>
+			</Key>
+
+			<Key ID="STR_Zug_DisplayName">
+				<Original>Platoon Alpha,Bravo,Charlie or Delta</Original>
+				<English>Platoon Alpha,Bravo,Charlie or Delta</English>
+				<Czech>Platoon Alpha,Bravo,Charlie or Delta</Czech>
+				<French>Platoon Alpha,Bravo,Charlie or Delta</French>
+				<German>Zug Alpha,Bravo,Charlie oder Delta</German>
+				<Italian>Platoon Alpha,Bravo,Charlie or Delta</Italian>
+				<Polish>Platoon Alpha,Bravo,Charlie or Delta</Polish>
+				<Portuguese>Platoon Alpha,Bravo,Charlie or Delta</Portuguese>
+				<Russian>Platoon Alpha,Bravo,Charlie or Delta</Russian>
+				<Spanish>Platoon Alpha,Bravo,Charlie or Deltaany</Spanish>
+				<Korean>Platoon Alpha,Bravo,Charlie or Delta</Korean>
+				<Japanese>アルファとブラボー、チャーリー、デルタ小隊</Japanese>
+			</Key>
+
+			<Key ID="STR_Zug_Buchstaben">
+				<Original>Platton Letter</Original>
+				<English>Platton Letter</English>
+				<Czech>Platton Letter</Czech>
+				<French>Platton Letter</French>
+				<German>Zug Buchstabe</German>
+				<Italian>Platton Letter</Italian>
+				<Polish>Platton Letter</Polish>
+				<Portuguese>Platton Letter</Portuguese>
+				<Russian>Platton Letter</Russian>
+				<Spanish>Platton Letter</Spanish>
+				<Korean>Platton Letter</Korean>
+				<Japanese>小隊識別番号</Japanese>
+			</Key>
+
+			<Key ID="STR_Fzg_Nummer_DisplayName">
+				<Original>Vehicle 1,2,3 or 4</Original>
+				<English>Vehicle 1,2,3 or 4</English>
+				<Czech>Vehicle 1,2,3 or 4</Czech>
+				<French>Vehicle 1,2,3 or 4</French>
+				<German>Fzg 1,2,3 oder 4</German>
+				<Italian>Vehicle 1,2,3 or 4</Italian>
+				<Polish>Vehicle 1,2,3 or 4</Polish>
+				<Portuguese>Vehicle 1,2,3 or 4</Portuguese>
+				<Russian>Vehicle 1,2,3 or 4</Russian>
+				<Spanish>Vehicle 1,2,3 or 4</Spanish>
+				<Korean>Vehicle 1,2,3 or 4</Korean>
+				<Japanese>車両 1 か 2、3、4</Japanese>
+			</Key>
+
+			<Key ID="STR_Fzg_Nummer">
+				<Original>Vehicle Number</Original>
+				<English>Vehicle Number</English>
+				<Czech>Vehicle Number</Czech>
+				<French>Vehicle Number</French>
+				<German>Fzg Nummer</German>
+				<Italian>Vehicle Number</Italian>
+				<Polish>Vehicle Number</Polish>
+				<Portuguese>Vehicle Number</Portuguese>
+				<Russian>Vehicle Number</Russian>
+				<Spanish>Vehicle Number</Spanish>
+				<Korean>Vehicle Number</Korean>
+				<Japanese>車両番号</Japanese>
+			</Key>
+
+			<Key ID="STR_Rundumleuchte_montieren">
+				<Original>Mount Beacon</Original>
+				<English>Mount Beacon</English>
+				<Czech>Mount Beacon</Czech>
+				<French>Mount Beacon</French>
+				<German>Rundumleuchte Montieren</German>
+				<Italian>Mount Beacon</Italian>
+				<Polish>Mount Beacon</Polish>
+				<Portuguese>Mount Beacon</Portuguese>
+				<Russian>Mount Beacon</Russian>
+				<Spanish>Mount Beacon</Spanish>
+				<Korean>Mount Beacon</Korean>
+				<Japanese>ビーコンを搭載</Japanese>
+			</Key>
+
+			<Key ID="STR_Rundumleuchte_abmontieren">
+				<Original>Unmount Beacon</Original>
+				<English>Unmount Beacon</English>
+				<Czech>Unmount Beacon</Czech>
+				<French>Unmount Beacon</French>
+				<German>Rundumleuchte Abmontieren</German>
+				<Italian>Unmount Beacon</Italian>
+				<Polish>Unmount Beacon</Polish>
+				<Portuguese>Unmount Beacon</Portuguese>
+				<Russian>Unmount Beacon</Russian>
+				<Spanish>Unmount Beacon</Spanish>
+				<Korean>Unmount Beacon</Korean>
+				<Japanese>ビーコンを解体</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_flagge_entfernen">
+		
+				<Original>Detach Flag</Original>
+				<English>Remove Flag</English>
+				<Czech>Remove Flag</Czech>
+				<French>Remove Flag</French>
+				<German>Flagge entfernen</German>
+				<Italian>Remove Flag</Italian>
+				<Polish>Remove Flag</Polish>
+				<Portuguese>Remove Flag</Portuguese>
+				<Russian>Remove Flag</Russian>
+				<Spanish>Remove Flag</Spanish>
+				<Korean>Remove Flag</Korean>
+				<Japanese>旗を外す</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_red_flagge_anbringen">
+		
+				<Original>Attach Red Flag</Original>
+				<English>Attach Red Flag</English>
+				<Czech>Attach Red Flag</Czech>
+				<French>Attach Red Flag</French>
+				<German>Rote Flagge anbringen</German>
+				<Italian>Attach Red Flag</Italian>
+				<Polish>Attach Red Flag</Polish>
+				<Portuguese>Attach Red Flag</Portuguese>
+				<Russian>Attach Red Flag</Russian>
+				<Spanish>Attach Red Flag</Spanish>
+				<Korean>Attach Red Flag</Korean>
+				<Japanese>赤旗を立てる</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_green_flagge_anbringen">
+		
+				<Original>Attach Green Flag</Original>
+				<English>Attach Green Flag</English>
+				<Czech>Attach Green Flag</Czech>
+				<French>Attach Green Flag</French>
+				<German>Grüne Flagge anbringen</German>
+				<Italian>Attach Green Flag</Italian>
+				<Polish>Attach Green Flag</Polish>
+				<Portuguese>Attach Green Flag</Portuguese>
+				<Russian>Attach Green Flag</Russian>
+				<Spanish>Attach Green Flag</Spanish>
+				<Korean>Attach Green Flag</Korean>
+				<Japanese>緑旗を立てる</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_blue_flagge_anbringen">
+		
+				<Original>Attach Blue Flag</Original>
+				<English>Attach Blue Flag</English>
+				<Czech>Attach Blue Flag</Czech>
+				<French>Attach Blue Flag</French>
+				<German>Blaue Flagge anbringen</German>
+				<Italian>Attach Blue Flag</Italian>
+				<Polish>Attach Blue Flag</Polish>
+				<Portuguese>Attach Blue Flag</Portuguese>
+				<Russian>Attach Blue Flag</Russian>
+				<Spanish>Attach Blue Flag</Spanish>
+				<Korean>Attach Blue Flag</Korean>
+				<Japanese>青旗を立てる</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_Milan_Tube">
+				<Original>Milan Tube</Original>
+				<English>Milan Tube</English>
+				<Czech>Milan Tube</Czech>
+				<French>Milan Tube</French>
+				<German>Milan Abschussrohr</German>
+				<Italian>Milan Tube</Italian>
+				<Polish>Milan Tube</Polish>
+				<Portuguese>Milan Tube</Portuguese>
+				<Russian>Milan Tube</Russian>
+				<Spanish>Milan Tube</Spanish>
+				<Korean>Milan Tube</Korean>
+				<Japanese>ミラン発射筒</Japanese>
+      		</Key>
+
+     		 <Key ID="STR_Redd_Milan_Tripod">
+				<Original>Milan Tripod</Original>
+				<English>Milan Tripod</English>
+				<Czech>Milan Tripod</Czech>
+				<French>Milan Tripod</French>
+				<German>Milan Dreibein</German>
+				<Italian>Milan Tripod</Italian>
+				<Polish>Milan Tripod</Polish>
+				<Portuguese>Milan Tripod</Portuguese>
+				<Russian>Milan Tripod</Russian>
+				<Spanish>Milan Tripod</Spanish>
+				<Korean>Milan Tripod</Korean>
+				<Japanese>ミラン三脚</Japanese>
+      		</Key>
+
+      		<Key ID="STR_Redd_Milan">
+				<Original>Milan</Original>
+				<English>Milan</English>
+				<Czech>Milan</Czech>
+				<French>Milan</French>
+				<German>Milan</German>
+				<Italian>Milan</Italian>
+				<Polish>Milan</Polish>
+				<Portuguese>Milan</Portuguese>
+				<Russian>Milan</Russian>
+				<Spanish>Milan</Spanish>
+				<Korean>Milan</Korean>
+				<Japanese>ミラン</Japanese>
+      		</Key>
+
+			<Key ID="STR_Fuchs_1A4">
+			<Original>Fuchs 1A4</Original>
+			<English>Fuchs 1A4</English>
+			<Czech>Fuchs 1A4</Czech>
+			<French>Fuchs 1A4</French>
+			<German>Fuchs 1A4</German>
+			<Italian>Fuchs 1A4</Italian>
+			<Polish>Fuchs 1A4</Polish>
+			<Portuguese>Fuchs 1A4</Portuguese>
+			<Russian>Fuchs 1A4</Russian>
+			<Spanish>Fuchs 1A4</Spanish>
+			<Korean>Fuchs 1A4</Korean>
+			<Japanese>フクス 1A4</Japanese>
+     	</Key>
+
+		<Key ID="STR_Kommandantenplatz">
+			<Original>Middle Hatch</Original>
+			<English>Middle Hatch</English>
+			<Czech>Middle Hatch</Czech>
+			<French>Middle Hatch</French>
+			<German>Mittlere Luke</German>
+			<Italian>Middle Hatch</Italian>
+			<Polish>Middle Hatch</Polish>
+			<Portuguese>Middle Hatch</Portuguese>
+			<Russian>Middle Hatch</Russian>
+			<Spanish>Middle Hatch</Spanish>
+			<Korean>Middle Hatch</Korean>
+			<Japanese>中央ハッチ</Japanese>
+     	</Key>
+
+		<Key ID="STR_Rechte_Luke">
+			<Original>Right Hatch</Original>
+			<English>Right Hatch</English>
+			<Czech>Right Hatch</Czech>
+			<French>Right Hatch</French>
+			<German>Rechte Luke</German>
+			<Italian>Right Hatch</Italian>
+			<Polish>Right Hatch</Polish>
+			<Portuguese>Right Hatch</Portuguese>
+			<Russian>Right Hatch</Russian>
+			<Spanish>Right Hatch</Spanish>
+			<Korean>Right Hatch</Korean>
+			<Japanese>右ハッチ</Japanese>
+     	</Key>
+
+		<Key ID="STR_Linke_Luke">
+			<Original>Left Hatch</Original>
+			<English>Left Hatch</English>
+			<Czech>Left Hatch</Czech>
+			<French>Left Hatch</French>
+			<German>Linke Luke</German>
+			<Italian>Left Hatch</Italian>
+			<Polish>Left Hatch</Polish>
+			<Portuguese>Left Hatch</Portuguese>
+			<Russian>Left Hatch</Russian>
+			<Spanish>Left Hatch</Spanish>
+			<Korean>Left Hatch</Korean>
+			<Japanese>左ハッチ</Japanese>
+     	</Key>
+
+		<Key ID="STR_Beifahrer">
+			<Original>Co-Driver</Original>
+			<English>Co-Driver</English>
+			<Czech>Co-Driver</Czech>
+			<French>Co-Driver</French>
+			<German>Beifahrer</German>
+			<Italian>Co-Driver</Italian>
+			<Polish>Co-Driver</Polish>
+			<Portuguese>Co-Driver</Portuguese>
+			<Russian>Co-Driver</Russian>
+			<Spanish>Co-Driver</Spanish>
+			<Korean>Co-Driver</Korean>
+			<Japanese>副運転手</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Beschussschild_schliessen">
+			<Original>Close Bullet Shield</Original>
+			<English>Close Bullet Shield</English>
+			<Czech>Close Bullet Shield</Czech>
+			<French>Close Bullet Shield</French>
+			<German>Beschussklappe schließen</German>
+			<Italian>Close Bullet Shield</Italian>
+			<Polish>Close Bullet Shield</Polish>
+			<Portuguese>Close Bullet Shield</Portuguese>
+			<Russian>Close Bullet Shield</Russian>
+			<Spanish>Close Bullet Shield</Spanish>
+			<Korean>Close Bullet Shield</Korean>
+			<Japanese>防弾盾を閉める</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Beschussschild_oeffnen">
+			<Original>Open Bullet Shield</Original>
+			<English>Open Bullet Shield</English>
+			<Czech>Open Bullet Shield</Czech>
+			<French>Open Bullet Shield</French>
+			<German>Beschussklappe öffnen</German>
+			<Italian>Open Bullet Shield</Italian>
+			<Polish>Open Bullet Shield</Polish>
+			<Portuguese>Open Bullet Shield</Portuguese>
+			<Russian>Open Bullet Shield</Russian>
+			<Spanish>Open Bullet Shield</Spanish>
+			<Korean>Open Bullet Shield</Korean>
+			<Japanese>防弾盾を開ける</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Tuere_oeffnen">
+			<Original>Open Door</Original>
+			<English>Open Door</English>
+			<Czech>Open Door</Czech>
+			<French>Open Door</French>
+			<German>Tür öffnen</German>
+			<Italian>Open Door</Italian>
+			<Polish>Open Door</Polish>
+			<Portuguese>Open Door</Portuguese>
+			<Russian>Open Door</Russian>
+			<Spanish>Open Door</Spanish>
+			<Korean>Open Door</Korean>
+			<Japanese>扉を開ける</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Tuere_schliessen">
+			<Original>Close Door</Original>
+			<English>Close Door</English>
+			<Czech>Close Door</Czech>
+			<French>Close Door</French>
+			<German>Tür schließen</German>
+			<Italian>Close Door</Italian>
+			<Polish>Close Door</Polish>
+			<Portuguese>Close Door</Portuguese>
+			<Russian>Close Door</Russian>
+			<Spanish>Close Door</Spanish>
+			<Korean>Close Door</Korean>
+			<Japanese>扉を閉める</Japanese>
+     	</Key>
+
+		  <Key ID="STR_Schwallbrett_ausklappen">
+			<Original>Unfold Surge Plate</Original>
+			<English>Unfold Surge Plate</English>
+			<Czech>Unfold Surge Plate</Czech>
+			<French>Unfold Surge Plate</French>
+			<German>Schwallbrett ausklappen</German>
+			<Italian>Unfold Surge Plate</Italian>
+			<Polish>Unfold Surge Plate</Polish>
+			<Portuguese>Unfold Surge Plate</Portuguese>
+			<Russian>Unfold Surge Plate</Russian>
+			<Spanish>Unfold Surge Plate</Spanish>
+			<Korean>Unfold Surge Plate</Korean>
+			<Japanese>波切り板を展開</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Schwallbrett_einklappen">
+			<Original>Fold Surge Plate</Original>
+			<English>Fold Surge Plate</English>
+			<Czech>Fold Surge Plate</Czech>
+			<French>Fold Surge Plate</French>
+			<German>Schwallbrett einklappen</German>
+			<Italian>Fold Surge Plate</Italian>
+			<Polish>Fold Surge Plate</Polish>
+			<Portuguese>Fold Surge Plate</Portuguese>
+			<Russian>Fold Surge Plate</Russian>
+			<Spanish>Fold Surge Plate</Spanish>
+			<Korean>Fold Surge Plate</Korean>
+			<Japanese>波切り板を収容</Japanese>
+     	</Key>
+
+		  <Key ID="STR_MG3_benutzen">
+			<Original>Use MG3</Original>
+			<English>Use MG3</English>
+			<Czech>Use MG3</Czech>
+			<French>Use MG3</French>
+			<German>MG3 benutzen</German>
+			<Italian>Use MG3</Italian>
+			<Polish>Use MG3</Polish>
+			<Portuguese>Use MG3</Portuguese>
+			<Russian>Use MG3</Russian>
+			<Spanish>Use MG3</Spanish>
+			<Korean>Use MG3</Korean>
+			<Japanese>MG3 を使う</Japanese>
+      	</Key>
+
+		   <Key ID="STR_MG3_verlassen">
+			<Original>Leave MG3</Original>
+			<English>Leave MG3</English>
+			<Czech>Leave MG3</Czech>
+			<French>Leave MG3</French>
+			<German>MG3 verlassen</German>
+			<Italian>Leave MG3</Italian>
+			<Polish>Leave MG3</Polish>
+			<Portuguese>Leave MG3</Portuguese>
+			<Russian>Leave MG3</Russian>
+			<Spanish>Leave MG3</Spanish>
+			<Korean>Leave MG3</Korean>
+			<Japanese>MG3 から出る</Japanese>
+      	</Key>
+
+		<Key ID="STR_Fuchs_1A4_Jg_Flecktarn">
+			<Original>Fuchs 1A4 Infantry (Woodland)</Original>
+			<English>Fuchs 1A4 Infantry (Woodland)</English>
+			<Czech>Fuchs 1A4 Infantry (Woodland)</Czech>
+			<French>Fuchs 1A4 Infantry (Woodland)</French>
+			<German>Fuchs 1A4 JgGrp (Flecktarn)</German>
+			<Italian>Fuchs 1A4 Infantry (Woodland)</Italian>
+			<Polish>Fuchs 1A4 Infantry (Woodland)</Polish>
+			<Portuguese>Fuchs 1A4 Infantry (Woodland)</Portuguese>
+			<Russian>Fuchs 1A4 Infantry (Woodland)</Russian>
+			<Spanish>Fuchs 1A4 Infantry (Woodland)</Spanish>
+			<Korean>Fuchs 1A4 Infantry (Woodland)</Korean>
+			<Japanese>フクス 1A4 人員輸送 (森林迷彩)</Japanese>
+     	</Key>
+
+		  <Key ID="STR_Waffengattung">
+			<Original>Unit</Original>
+			<English>Unit</English>
+			<Czech>Unit</Czech>
+			<French>Unit</French>
+			<German>Waffengattung</German>
+			<Italian>Unit</Italian>
+			<Polish>Unit</Polish>
+			<Portuguese>Unit</Portuguese>
+			<Russian>Unit</Russian>
+			<Spanish>Unit</Spanish>
+			<Korean>Unit</Korean>
+			<Japanese>ユニット</Japanese>
+     	</Key>
+
+		<Key ID="STR_Fuchs_1A4_Jg_Tropentarn">
+			<Original>Fuchs 1A4 Infantry (Desert)</Original>
+			<English>Fuchs 1A4 Infantry (Desert)</English>
+			<Czech>Fuchs 1A4 Infantry (Desert)</Czech>
+			<French>Fuchs 1A4 Infantry (Desert)</French>
+			<German>Fuchs 1A4 JgGrp (Wüste)</German>
+			<Italian>Fuchs 1A4 Infantry (Desert)</Italian>
+			<Polish>Fuchs 1A4 Infantry (Desert)</Polish>
+			<Portuguese>Fuchs 1A4 Infantry (Desert)</Portuguese>
+			<Russian>Fuchs 1A4 Infantry (Desert)</Russian>
+			<Spanish>Fuchs 1A4 Infantry (Desert)</Spanish>
+			<Korean>Fuchs 1A4 Infantry (Desert)</Korean>
+			<Japanese>フクス 1A4 人員輸送 (砂漠迷彩)</Japanese>
+     	</Key> 
+
+		<Key ID="STR_Fuchs_1A4_Jg_Wintertarn">
+			<Original>Fuchs 1A4 Infantry (Winter)</Original>
+			<English>Fuchs 1A4 Infantry (Winter)</English>
+			<Czech>Fuchs 1A4 Infantry (Winter)</Czech>
+			<French>Fuchs 1A4 Infantry (Winter)</French>
+			<German>Fuchs 1A4 JgGrp (Winter)</German>
+			<Italian>Fuchs 1A4 Infantry (Winter)</Italian>
+			<Polish>Fuchs 1A4 Infantry (Winter)</Polish>
+			<Portuguese>Fuchs 1A4 Infantry (Winter)</Portuguese>
+			<Russian>Fuchs 1A4 Infantry (Winter)</Russian>
+			<Spanish>Fuchs 1A4 Infantry (Winter)</Spanish>
+			<Korean>Fuchs 1A4 Infantry (Winter)</Korean>
+			<Japanese>フクス 1A4 人員輸送 (冬季迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Fuchs_1A4_Jg_Milan_Flecktarn">
+			<Original>Fuchs 1A4 Infantry-Milan (Woodland)</Original>
+			<English>Fuchs 1A4 Infantry-Milan (Woodland)</English>
+			<Czech>Fuchs 1A4 Infantry-Milan (Woodland)</Czech>
+			<French>Fuchs 1A4 Infantry-Milan (Woodland)</French>
+			<German>Fuchs 1A4 JgGrp-Milan (Flecktarn)</German>
+			<Italian>Fuchs 1A4 Infantry-Milan (Woodland)</Italian>
+			<Polish>Fuchs 1A4 Infantry-Milan (Woodland)</Polish>
+			<Portuguese>Fuchs 1A4 Infantry-Milan (Woodland)</Portuguese>
+			<Russian>Fuchs 1A4 Infantry-Milan (Woodland)</Russian>
+			<Spanish>Fuchs 1A4 Infantry-Milan (Woodland)</Spanish>
+			<Korean>Fuchs 1A4 Infantry-Milan (Woodland)</Korean>
+			<Japanese>フクス 1A4 人員輸送-ミラン (森林迷彩)</Japanese>
+     	</Key>
+
+		  <Key ID="STR_Fuchs_1A4_Jg_Milan_Tropentarn">
+			<Original>Fuchs 1A4 Infantry-Milan (Desert)</Original>
+			<English>Fuchs 1A4 Infantry-Milan (Desert)</English>
+			<Czech>Fuchs 1A4 Infantry-Milan (Desert)</Czech>
+			<French>Fuchs 1A4 Infantry-Milan (Desert)</French>
+			<German>Fuchs 1A4 JgGrp-Milan (Wüste)</German>
+			<Italian>Fuchs 1A4 Infantry-Milan (Desert)</Italian>
+			<Polish>Fuchs 1A4 Infantry-Milan (Desert)</Polish>
+			<Portuguese>Fuchs 1A4 Infantry-Milan (Desert)</Portuguese>
+			<Russian>Fuchs 1A4 Infantry-Milan (Desert)</Russian>
+			<Spanish>Fuchs 1A4 Infantry-Milan (Desert)</Spanish>
+			<Korean>Fuchs 1A4 Infantry-Milan (Desert)</Korean>
+			<Japanese>フクス 1A4 人員輸送-ミラン (砂漠迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Fuchs_1A4_Jg_Milan_Wintertarn">
+			<Original>Fuchs 1A4 Infantry-Milan (Winter)</Original>
+			<English>Fuchs 1A4 Infantry-Milan (Winter)</English>
+			<Czech>Fuchs 1A4 Infantry-Milan (Winter)</Czech>
+			<French>Fuchs 1A4 Infantry-Milan (Winter)</French>
+			<German>Fuchs 1A4 JgGrp-Milan (Winter)</German>
+			<Italian>Fuchs 1A4 Infantry-Milan (Winter)</Italian>
+			<Polish>Fuchs 1A4 Infantry-Milan (Winter)</Polish>
+			<Portuguese>Fuchs 1A4 Infantry-Milan (Winter)</Portuguese>
+			<Russian>Fuchs 1A4 Infantry-Milan (Winter)</Russian>
+			<Spanish>Fuchs 1A4 Infantry-Milan (Winter)</Spanish>
+			<Korean>Fuchs 1A4 Infantry-Milan (Winter)</Korean>
+			<Japanese>フクス 1A4 人員輸送-ミラン (冬季迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Fuchs_1A4_Pi_Flecktarn">
+			<Original>Fuchs 1A4 Engineers (Woodland)</Original>
+			<English>Fuchs 1A4 Engineers (Woodland)</English>
+			<Czech>Fuchs 1A4 Engineers (Woodland)</Czech>
+			<French>Fuchs 1A4 Engineers (Woodland)</French>
+			<German>Fuchs 1A4 PiGrp (Flecktarn)</German>
+			<Italian>Fuchs 1A4 Engineers (Woodland)</Italian>
+			<Polish>Fuchs 1A4 Engineers (Woodland)</Polish>
+			<Portuguese>Fuchs 1A4 Engineers (Woodland)</Portuguese>
+			<Russian>Fuchs 1A4 Engineers (Woodland)</Russian>
+			<Spanish>Fuchs 1A4 Engineers (Woodland)</Spanish>
+			<Korean>Fuchs 1A4 Engineers (Woodland)</Korean>
+			<Japanese>フクス 1A4 工兵 (森林迷彩)</Japanese>
+     	</Key>
+
+		<Key ID="STR_Fuchs_1A4_Pi_Tropentarn">
+			<Original>Fuchs 1A4 Engineers (Desert)</Original>
+			<English>Fuchs 1A4 Engineers (Desert)</English>
+			<Czech>Fuchs 1A4 Engineers (Desert)</Czech>
+			<French>Fuchs 1A4 Engineers (Desert)</French>
+			<German>Fuchs 1A4 PiGrp (Wüste)</German>
+			<Italian>Fuchs 1A4 Engineers (Desert)</Italian>
+			<Polish>Fuchs 1A4 Engineers (Desert)</Polish>
+			<Portuguese>Fuchs 1A4 Engineers (Desert)</Portuguese>
+			<Russian>Fuchs 1A4 Engineers (Desert)</Russian>
+			<Spanish>Fuchs 1A4 Engineers (Desert)</Spanish>
+			<Korean>Fuchs 1A4 Engineers (Desert)</Korean>
+			<Japanese>フクス 1A4 工兵 (砂漠迷彩)</Japanese>
+     	</Key> 
+
+		<Key ID="STR_Fuchs_1A4_Pi_Wintertarn">
+			<Original>Fuchs 1A4 Engineers (Winter)</Original>
+			<English>Fuchs 1A4 Engineers (Winter)</English>
+			<Czech>Fuchs 1A4 Engineers (Winter)</Czech>
+			<French>Fuchs 1A4 Engineers (Winter)</French>
+			<German>Fuchs 1A4 PiGrp (Winter)</German>
+			<Italian>Fuchs 1A4 Engineers (Winter)</Italian>
+			<Polish>Fuchs 1A4 Engineers (Winter)</Polish>
+			<Portuguese>Fuchs 1A4 Engineers (Winter)</Portuguese>
+			<Russian>Fuchs 1A4 Engineers (Winter)</Russian>
+			<Spanish>Fuchs 1A4 Engineers (Winter)</Spanish>
+			<Korean>Fuchs 1A4 Engineers (Winter)</Korean>
+			<Japanese>フクス 1A4 工兵 (冬季迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Fuchs_1A4_San_Flecktarn">
+			<Original>Fuchs 1A4 Medic (Woodland)</Original>
+			<English>Fuchs 1A4 Medic (Woodland)</English>
+			<Czech>Fuchs 1A4 Medic (Woodland)</Czech>
+			<French>Fuchs 1A4 Medic (Woodland)</French>
+			<German>Fuchs 1A4 SanGrp (Flecktarn)</German>
+			<Italian>Fuchs 1A4 Medic (Woodland)</Italian>
+			<Polish>Fuchs 1A4 Medic (Woodland)</Polish>
+			<Portuguese>Fuchs 1A4 Medic (Woodland)</Portuguese>
+			<Russian>Fuchs 1A4 Medic (Woodland)</Russian>
+			<Spanish>Fuchs 1A4 Medic (Woodland)</Spanish>
+			<Korean>Fuchs 1A4 Medic (Woodland)</Korean>
+			<Japanese>フクス 1A4 救急 (森林迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Fuchs_1A4_San_Tropentarn">
+			<Original>Fuchs 1A4 Medic (Desert)</Original>
+			<English>Fuchs 1A4 Medic (Desert)</English>
+			<Czech>Fuchs 1A4 Medic (Desert)</Czech>
+			<French>Fuchs 1A4 Medic (Desert)</French>
+			<German>Fuchs 1A4 SanGrp (Wüste)</German>
+			<Italian>Fuchs 1A4 Medic (Desert)</Italian>
+			<Polish>Fuchs 1A4 Medic (Desert)</Polish>
+			<Portuguese>Fuchs 1A4 Medic (Desert)</Portuguese>
+			<Russian>Fuchs 1A4 Medic (Desert)</Russian>
+			<Spanish>Fuchs 1A4 Medic (Desert)</Spanish>
+			<Korean>Fuchs 1A4 Medic (Desert)</Korean>
+			<Japanese>フクス 1A4 救急 (砂漠迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Fuchs_1A4_San_Wintertarn">
+			<Original>Fuchs 1A4 Medic (Winter)</Original>
+			<English>Fuchs 1A4 Medic (Winter)</English>
+			<Czech>Fuchs 1A4 Medic (Winter)</Czech>
+			<French>Fuchs 1A4 Medic (Winter)</French>
+			<German>Fuchs 1A4 SanGrp (Winter)</German>
+			<Italian>Fuchs 1A4 Medic (Winter)</Italian>
+			<Polish>Fuchs 1A4 Medic (Winter)</Polish>
+			<Portuguese>Fuchs 1A4 Medic (Winter)</Portuguese>
+			<Russian>Fuchs 1A4 Medic (Winter)</Russian>
+			<Spanish>Fuchs 1A4 Medic (Winter)</Spanish>
+			<Korean>Fuchs 1A4 Medic (Winter)</Korean>
+			<Japanese>フクス 1A4 救急 (冬季迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Rundumleuchte_an">
+			<Original>Turn On Beacon</Original>
+			<English>Turn On Beacon</English>
+			<Czech>Turn On Beacon</Czech>
+			<French>Turn On Beacon</French>
+			<German>Rundumleuchte einschalten</German>
+			<Italian>Turn On Beacon</Italian>
+			<Polish>Turn On Beacon</Polish>
+			<Portuguese>Turn On Beacon</Portuguese>
+			<Russian>Turn On Beacon</Russian>
+			<Spanish>Turn On Beacon</Spanish>
+			<Korean>Turn On Beacon</Korean>
+			<Japanese>ビーコンを点灯</Japanese>
+     	</Key>
+
+		  <Key ID="STR_Rundumleuchte_aus">
+			<Original>Turn Off Beacon</Original>
+			<English>Turn Off Beacon</English>
+			<Czech>Turn Off Beacon</Czech>
+			<French>Turn Off Beacon</French>
+			<German>Rundumleuchte ausschalten</German>
+			<Italian>Turn Off Beacon</Italian>
+			<Polish>Turn Off Beacon</Polish>
+			<Portuguese>Turn Off Beacon</Portuguese>
+			<Russian>Turn Off Beacon</Russian>
+			<Spanish>Turn Off Beacon</Spanish>
+			<Korean>Turn Off Beacon</Korean>
+			<Japanese>ビーコンを消灯</Japanese>
+     	</Key>
+
+		
+		<Key ID="STR_Rundumleuchte_aufbauen">
+			<Original>Assemble Beacon</Original>
+			<English>Assemble Beacon</English>
+			<Czech>Assemble Beacon</Czech>
+			<French>Assemble Beacon</French>
+			<German>Rundumleuchte aufbauen</German>
+			<Italian>Assemble Beacon</Italian>
+			<Polish>Assemble Beacon</Polish>
+			<Portuguese>Assemble Beacon</Portuguese>
+			<Russian>Assemble Beacon</Russian>
+			<Spanish>Assemble Beacon</Spanish>
+			<Korean>Assemble Beacon</Korean>
+			<Japanese>ビーコンを設置</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Rundumleuchte_abbauen">
+			<Original>Disassemble Beacon</Original>
+			<English>Disassemble Beacon</English>
+			<Czech>Disassemble Beacon</Czech>
+			<French>Disassemble Beacon</French>
+			<German>Rundumleuchte abbauen</German>
+			<Italian>Disassemble Beacon</Italian>
+			<Polish>Disassemble Beacon</Polish>
+			<Portuguese>Disassemble Beacon</Portuguese>
+			<Russian>Disassemble Beacon</Russian>
+			<Spanish>Disassemble Beacon</Spanish>
+			<Korean>Disassemble Beacon</Korean>
+			<Japanese>ビーコンを解体</Japanese>
+     	</Key>
+
+		
+		<Key ID="STR_Sani_Platz">
+			<Original>Medic Seat</Original>
+			<English>Medic Seat</English>
+			<Czech>Medic Seat</Czech>
+			<French>Medic Seat</French>
+			<German>Sanitäter Sitz</German>
+			<Italian>Medic Seat</Italian>
+			<Polish>Medic Seat</Polish>
+			<Portuguese>Medic Seat</Portuguese>
+			<Russian>Medic Seat</Russian>
+			<Spanish>Medic Seat</Spanish>
+			<Korean>Medic Seat</Korean>
+			<Japanese>衛生兵席</Japanese>
+     	</Key>
+
+		<Key ID="STR_Gepard_1A2">
+			<Original>Gepard 1A2</Original>
+			<English>Gepard 1A2</English>
+			<Czech>Gepard 1A2</Czech>
+			<French>Gepard 1A2</French>
+			<German>Gepard 1A2</German>
+			<Italian>Gepard 1A2</Italian>
+			<Polish>Gepard 1A2</Polish>
+			<Portuguese>Gepard 1A2</Portuguese>
+			<Russian>Gepard 1A2</Russian>
+			<Spanish>Gepard 1A2</Spanish>
+			<Korean>Gepard 1A2</Korean>
+			<Japanese>ゲパルト 1A2</Japanese>
+      	</Key>
+
+		<Key ID="STR_Gepard_1A2_Flecktarn">
+			<Original>Gepard 1A2 (Woodland)</Original>
+			<English>Gepard 1A2 (Woodland)</English>
+			<Czech>Gepard 1A2 (Woodland)</Czech>
+			<French>Gepard 1A2 (Woodland)</French>
+			<German>Gepard 1A2 (Flecktarn)</German>
+			<Italian>Gepard 1A2 (Woodland)</Italian>
+			<Polish>Gepard 1A2 (Woodland)</Polish>
+			<Portuguese>Gepard 1A2 (Woodland)</Portuguese>
+			<Russian>Gepard 1A2 (Woodland)</Russian>
+			<Spanish>Gepard 1A2 (Woodland)</Spanish>
+			<Korean>Gepard 1A2 (Woodland)</Korean>
+			<Japanese>ゲパルト 1A2 (森林迷彩)</Japanese>
+      	</Key>
+
+		  <Key ID="STR_Gepard_1A2_Tropentarn">
+			<Original>Gepard 1A2 (Desert)</Original>
+			<English>Gepard 1A2 (Desert)</English>
+			<Czech>Gepard 1A2 (Desert)</Czech>
+			<French>Gepard 1A2 (Desert)</French>
+			<German>Gepard 1A2 (Wüste)</German>
+			<Italian>Gepard 1A2 (Desert)</Italian>
+			<Polish>Gepard 1A2 (Desert)</Polish>
+			<Portuguese>Gepard 1A2 (Desert)</Portuguese>
+			<Russian>Gepard 1A2 (Desert)</Russian>
+			<Spanish>Gepard 1A2 (Desert)</Spanish>
+			<Korean>Gepard 1A2 (Desert)</Korean>
+			<Japanese>ゲパルト 1A2 (砂漠迷彩)</Japanese>
+      	</Key>
+
+		  <Key ID="STR_Gepard_1A2_Winter">
+			<Original>Gepard 1A2 (Winter)</Original>
+			<English>Gepard 1A2 (Winter)</English>
+			<Czech>Gepard 1A2 (Winter)</Czech>
+			<French>Gepard 1A2 (Winter)</French>
+			<German>Gepard 1A2 (Winter)</German>
+			<Italian>Gepard 1A2 (Winter)</Italian>
+			<Polish>Gepard 1A2 (Winter)</Polish>
+			<Portuguese>Gepard 1A2 (Winter)</Portuguese>
+			<Russian>Gepard 1A2 (Winter)</Russian>
+			<Spanish>Gepard 1A2 (Winter)</Spanish>
+			<Korean>Gepard 1A2 (Winter)</Korean>
+			<Japanese>ゲパルト 1A2 (冬季迷彩)</Japanese>
+      	</Key>
+
+		  <Key ID="STR_Rgt_Btl">
+			<Original>Regiment/Battalion </Original>
+			<English>Regiment/Battalion</English>
+			<Czech>Regiment/Battalion</Czech>
+			<French>Regiment/Battalion</French>
+			<German>Regiment/Bataillon</German>
+			<Italian>Regiment/Battalion</Italian>
+			<Polish>Regiment/Battalion</Polish>
+			<Portuguese>Regiment/Battalion</Portuguese>
+			<Russian>Regiment/Battalion</Russian>
+			<Spanish>Regiment/Battalion</Spanish>
+			<Korean>Regiment/Battalion</Korean>
+			<Japanese>連隊/大隊</Japanese>
+      	</Key>
+
+		<Key ID="STR_LKW_leicht_gl_Wolf">
+			<Original>LKW leicht gl "Wolf"</Original>
+			<English>LKW leicht gl "Wolf"</English>
+			<Czech>LKW leicht gl "Wolf"</Czech>
+			<French>LKW leicht gl "Wolf"</French>
+			<German>LKW leicht gl "Wolf"</German>
+			<Italian>LKW leicht gl "Wolf"</Italian>
+			<Polish>LKW leicht gl "Wolf"</Polish>
+			<Portuguese>LKW leicht gl "Wolf"</Portuguese>
+			<Russian>LKW leicht gl "Wolf"</Russian>
+			<Spanish>LKW leicht gl "Wolf"</Spanish>
+			<Korean>LKW leicht gl "Wolf"</Korean>
+			<Japanese>軽トラック gl "ウルフ"</Japanese>
+     	</Key>
+
+		  <Key ID="STR_LKW_leicht_gl_Wolf_Flecktarn_FueFu">
+			<Original>LKW leicht gl "Wolf" Command Vehicle (Woodland)</Original>
+			<English>LKW leicht gl "Wolf" Command Vehicle (Woodland)</English>
+			<Czech>LKW leicht gl "Wolf" Command Vehicle (Woodland)</Czech>
+			<French>LKW leicht gl "Wolf" Command Vehicle (Woodland)</French>
+			<German>LKW leicht gl "Wolf" FüFu (Flecktarn)</German>
+			<Italian>LKW leicht gl "Wolf" Command Vehicle (Woodland)</Italian>
+			<Polish>LKW leicht gl "Wolf" Command Vehicle (Woodland)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Command Vehicle (Woodland)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Command Vehicle (Woodland)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Command Vehicle (Woodland)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Command Vehicle (Woodland)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 指揮車 (森林迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_LKW_leicht_gl_Wolf_Tropentarn_FueFu">
+			<Original>LKW leicht gl "Wolf" Command Vehicle (Desert)</Original>
+			<English>LKW leicht gl "Wolf" Command Vehicle (Desert)</English>
+			<Czech>LKW leicht gl "Wolf" Command Vehicle (Desert)</Czech>
+			<French>LKW leicht gl "Wolf" Command Vehicle (Desert)</French>
+			<German>LKW leicht gl "Wolf" FüFu (Wüste)</German>
+			<Italian>LKW leicht gl "Wolf" Command Vehicle (Desert)</Italian>
+			<Polish>LKW leicht gl "Wolf" Command Vehicle (Desert)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Command Vehicle (Desert)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Command Vehicle (Desert)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Command Vehicle (Desert)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Command Vehicle (Desert)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 指揮車 (砂漠迷彩)</Japanese>
+     	</Key>
+
+		  <Key ID="STR_LKW_leicht_gl_Wolf_Wintertarn_FueFu">
+			<Original>LKW leicht gl "Wolf" Command Vehicle (Winter)</Original>
+			<English>LKW leicht gl "Wolf" Command Vehicle (Winter)</English>
+			<Czech>LKW leicht gl "Wolf" Command Vehicle (Winter)</Czech>
+			<French>LKW leicht gl "Wolf" Command Vehicle (Winter)</French>
+			<German>LKW leicht gl "Wolf" FüFu (Winter)</German>
+			<Italian>LKW leicht gl "Wolf" Command Vehicle (Winter)</Italian>
+			<Polish>LKW leicht gl "Wolf" Command Vehicle (Winter)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Command Vehicle (Winter)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Command Vehicle (Winter)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Command Vehicle (Winter)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Command Vehicle (Winter)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 指揮車 (冬季迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_LKW_leicht_gl_Wolf_Flecktarn_Moerser">
+			<Original>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</Original>
+			<English>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</English>
+			<Czech>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</Czech>
+			<French>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</French>
+			<German>LKW leicht gl "Wolf" Mörserträger (Flecktarn)</German>
+			<Italian>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</Italian>
+			<Polish>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Mortar Carrier (Woodland)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 迫撃砲運搬車 (森林迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_LKW_leicht_gl_Wolf_Tropentarn_Moerser">
+			<Original>LKW leicht gl "Wolf" Mortar Carrier (Desert)</Original>
+			<English>LKW leicht gl "Wolf" Mortar Carrier (Desert)</English>
+			<Czech>LKW leicht gl "Wolf" Mortar Carrier (Desert)</Czech>
+			<French>LKW leicht gl "Wolf" Mortar Carrier (Desert)</French>
+			<German>LKW leicht gl "Wolf" Mörserträger (Wüste)</German>
+			<Italian>LKW leicht gl "Wolf" Mortar Carrier (Desert)</Italian>
+			<Polish>LKW leicht gl "Wolf" Mortar Carrier (Desert)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Mortar Carrier (Desert)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Mortar Carrier (Desert)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Mortar Carrier (Desert)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Mortar Carrier (Desert)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 迫撃砲運搬車 (砂漠迷彩)</Japanese>
+     	</Key>
+
+		  <Key ID="STR_LKW_leicht_gl_Wolf_Wintertarn_Moerser">
+			<Original>LKW leicht gl "Wolf" Mortar Carrier (Winter)</Original>
+			<English>LKW leicht gl "Wolf" Mortar Carrier (Winter)</English>
+			<Czech>LKW leicht gl "Wolf" Mortar Carrier (Winter)</Czech>
+			<French>LKW leicht gl "Wolf" Mortar Carrier (Winter)</French>
+			<German>LKW leicht gl "Wolf" Mörserträger (Winter)</German>
+			<Italian>LKW leicht gl "Wolf" Mortar Carrier (Winter)</Italian>
+			<Polish>LKW leicht gl "Wolf" Mortar Carrier (Winter)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Mortar Carrier (Winter)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Mortar Carrier (Winter)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Mortar Carrier (Winter)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Mortar Carrier (Winter)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 迫撃砲運搬車 (冬季迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_LKW_leicht_gl_Wolf_Flecktarn_San">
+			<Original>LKW leicht gl "Wolf" Medic (Woodland)</Original>
+			<English>LKW leicht gl "Wolf" Medic (Woodland)</English>
+			<Czech>LKW leicht gl "Wolf" Medic (Woodland)</Czech>
+			<French>LKW leicht gl "Wolf" Medic (Woodland)</French>
+			<German>LKW leicht gl "Wolf" San (Flecktarn)</German>
+			<Italian>LKW leicht gl "Wolf" Medic (Woodland)</Italian>
+			<Polish>LKW leicht gl "Wolf" Medic (Woodland)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Medic (Woodland)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Medic (Woodland)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Medic (Woodland)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Medic (Woodland)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 衛生 (森林迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_LKW_leicht_gl_Wolf_Tropentarn_San">
+			<Original>LKW leicht gl "Wolf" Medic (Desert)</Original>
+			<English>LKW leicht gl "Wolf" Medic (Desert)</English>
+			<Czech>LKW leicht gl "Wolf" Medic (Desert)</Czech>
+			<French>LKW leicht gl "Wolf" Medic (Desert)</French>
+			<German>LKW leicht gl "Wolf" San (Wüste)</German>
+			<Italian>LKW leicht gl "Wolf" Medic (Desert)</Italian>
+			<Polish>LKW leicht gl "Wolf" Medic (Desert)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Medic (Desert)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Medic (Desert)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Medic (Desert)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Medic (Desert)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 衛生 (砂漠迷彩)</Japanese>
+     	</Key>
+
+		  <Key ID="STR_LKW_leicht_gl_Wolf_Wintertarn_San">
+			<Original>LKW leicht gl "Wolf" Medic (Winter)</Original>
+			<English>LKW leicht gl "Wolf" Medic (Winter)</English>
+			<Czech>LKW leicht gl "Wolf" Medic (Winter)</Czech>
+			<French>LKW leicht gl "Wolf" Medic (Winter)</French>
+			<German>LKW leicht gl "Wolf" San (Winter)</German>
+			<Italian>LKW leicht gl "Wolf" Medic (Winter)</Italian>
+			<Polish>LKW leicht gl "Wolf" Medic (Winter)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Medic (Winter)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Medic (Winter)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Medic (Winter)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Medic (Winter)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 衛生車 (冬季迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_LKW_leicht_gl_Wolf_Flecktarn_FJg">
+			<Original>LKW leicht gl "Wolf" Military Police (Woodland)</Original>
+			<English>LKW leicht gl "Wolf" Military Police (Woodland)</English>
+			<Czech>LKW leicht gl "Wolf" Military Police (Woodland)</Czech>
+			<French>LKW leicht gl "Wolf" Military Police (Woodland)</French>
+			<German>LKW leicht gl "Wolf" Feldjäger (Flecktarn)</German>
+			<Italian>LKW leicht gl "Wolf" Military Police (Woodland)</Italian>
+			<Polish>LKW leicht gl "Wolf" Military Police (Woodland)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Military Police (Woodland)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Military Police (Woodland)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Military Police (Woodland)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Military Police (Woodland)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 軍警察車 (森林迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_LKW_leicht_gl_Wolf_Tropentarn_FJg">
+			<Original>LKW leicht gl "Wolf" Military Police (Desert)</Original>
+			<English>LKW leicht gl "Wolf" Military Police (Desert)</English>
+			<Czech>LKW leicht gl "Wolf" Military Police (Desert)</Czech>
+			<French>LKW leicht gl "Wolf" Military Police (Desert)</French>
+			<German>LKW leicht gl "Wolf" Feldjäger (Wüste)</German>
+			<Italian>LKW leicht gl "Wolf" Military Police (Desert)</Italian>
+			<Polish>LKW leicht gl "Wolf" Military Police (Desert)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Military Police (Desert)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Military Police (Desert)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Military Police (Desert)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Military Police (Desert)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 軍警察車 (砂漠迷彩)</Japanese>
+     	</Key>
+
+		  <Key ID="STR_LKW_leicht_gl_Wolf_Wintertarn_FJg">
+			<Original>LKW leicht gl "Wolf" Military Police (Winter)</Original>
+			<English>LKW leicht gl "Wolf" Military Police (Winter)</English>
+			<Czech>LKW leicht gl "Wolf" Military Policee (Winter)</Czech>
+			<French>LKW leicht gl "Wolf" Military Policee (Winter)</French>
+			<German>LKW leicht gl "Wolf" Feldjäger (Winter)</German>
+			<Italian>LKW leicht gl "Wolf" Military Police (Winter)</Italian>
+			<Polish>LKW leicht gl "Wolf" Military Police (Winter)</Polish>
+			<Portuguese>LKW leicht gl "Wolf" Military Police (Winter)</Portuguese>
+			<Russian>LKW leicht gl "Wolf" Military Policee (Winter)</Russian>
+			<Spanish>LKW leicht gl "Wolf" Military Police (Winter)</Spanish>
+			<Korean>LKW leicht gl "Wolf" Military Police (Winter)</Korean>
+			<Japanese>軽トラック gl "ウルフ" 軍警察車 (冬季迷彩)</Japanese>
+     	</Key>
+
+		 <Key ID="STR_Fenster_oeffnen">
+			<Original>Open Window</Original>
+			<English>Open Window</English>
+			<Czech>Open Window</Czech>
+			<French>Open Window</French>
+			<German>Fenster Öffnen</German>
+			<Italian>Open Window</Italian>
+			<Polish>Open Window</Polish>
+			<Portuguese>Open Window</Portuguese>
+			<Russian>Open Window</Russian>
+			<Spanish>Open Window</Spanish>
+			<Korean>Open Window</Korean>
+			<Japanese>窓を開ける</Japanese>
+     	</Key>
+
+		<Key ID="STR_Fenster_schliessen">
+			<Original>Close Window</Original>
+			<English>Close Window</English>
+			<Czech>Close Window</Czech>
+			<French>Close Window</French>
+			<German>Fenster Schließen</German>
+			<Italian>Close Window</Italian>
+			<Polish>Close Window</Polish>
+			<Portuguese>Close Window</Portuguese>
+			<Russian>Close Window</Russian>
+			<Spanish>Close Window</Spanish>
+			<Korean>Close Window</Korean>
+			<Japanese>窓を閉める</Japanese>
+     	</Key>
+
+		<Key ID="STR_Plane_entfernen">
+			<Original>Remove Cover</Original>
+			<English>Remove Cover</English>
+			<Czech>Remove Cover</Czech>
+			<French>Remove Cover</French>
+			<German>Plane Entfernen</German>
+			<Italian>Remove Cover</Italian>
+			<Polish>Remove Cover</Polish>
+			<Portuguese>Remove Cover</Portuguese>
+			<Russian>Remove Cover</Russian>
+			<Spanish>Remove Cover</Spanish>
+			<Korean>Remove Cover</Korean>
+			<Japanese>カバーを除ける</Japanese>
+     	</Key>
+
+		<Key ID="STR_Plane_anbringen">
+			<Original>Add Cover</Original>
+			<English>Add Cover</English>
+			<Czech>Add Cover</Czech>
+			<French>Add Cover</French>
+			<German>Plane Anbringen</German>
+			<Italian>Add Cover</Italian>
+			<Polish>Add Cover</Polish>
+			<Portuguese>Add Cover</Portuguese>
+			<Russian>Add Cover</Russian>
+			<Spanish>Add Cover</Spanish>
+			<Korean>Add Cover</Korean>
+			<Japanese>カバーを張る</Japanese>
+     	</Key>
+
+		 <Key ID="STR_HeckTuere_oeffnen">
+			<Original>Open Rear Door</Original>
+			<English>Open Rear Door</English>
+			<Czech>Open Rear Door</Czech>
+			<French>Open Rear Door</French>
+			<German>Hecktür öffnen</German>
+			<Italian>Open Rear Door</Italian>
+			<Polish>Open Rear Door</Polish>
+			<Portuguese>Open Rear Door</Portuguese>
+			<Russian>Open Rear Door</Russian>
+			<Spanish>Open Rear Door</Spanish>
+			<Korean>Open Rear Door</Korean>
+			<Japanese>後部ドアを開ける</Japanese>
+     	</Key>
+
+		 <Key ID="STR_HeckTuere_schliessen">
+			<Original>Close Rear Door</Original>
+			<English>Close Rear Door</English>
+			<Czech>Close Rear Door</Czech>
+			<French>Close Rear Door</French>
+			<German>Hecktür schließen</German>
+			<Italian>Close Rear Door</Italian>
+			<Polish>Close Rear Door</Polish>
+			<Portuguese>Close Rear Door</Portuguese>
+			<Russian>Close Rear Door</Russian>
+			<Spanish>Close Rear Door</Spanish>
+			<Korean>Close Rear Door</Korean>
+			<Japanese>後部ドアを閉める</Japanese>
+     	</Key>
+
+			<Key ID="STR_Redd_Tarnnetz_Fzg_aufbauen">
+		
+				<Original>Attach Camo Net</Original>
+				<English>Attach Camo Net</English>
+				<Czech>Attach Camo Net</Czech>
+				<French>Attach Camo Net</French>
+				<German>Tarnnetz anbringen</German>
+				<Italian>Attach Camo Net</Italian>
+				<Polish>Attach Camo Net</Polish>
+				<Portuguese>Attach Camo Net</Portuguese>
+				<Russian>Attach Camo Net</Russian>
+				<Spanish>Attach Camo Net</Spanish>
+				<Korean>Attach Camo Net</Korean>
+				<Japanese>偽装網を取り付け</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_Tarnnetz_Fzg_abbauen">
+		
+				<Original>Detach Camo Net</Original>
+				<English>Detach Camo Net</English>
+				<Czech>Detach Camo Net</Czech>
+				<French>Detach Camo Net</French>
+				<German>Tarnnetz abnehmen</German>
+				<Italian>Detach Camo Net</Italian>
+				<Polish>Detach Camo Net</Polish>
+				<Portuguese>Detach Camo Net</Portuguese>
+				<Russian>Detach Camo Net</Russian>
+				<Spanish>Detach Camo Net</Spanish>
+				<Korean>Detach Camo Net</Korean>
+				<Japanese>偽装網を外す</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_Tarnnetz_boden_aufbauen">
+		
+				<Original>Build Large Camo Net</Original>
+				<English>Build Large Camo Net</English>
+				<Czech>Build Large Camo Net</Czech>
+				<French>Build Large Camo Net</French>
+				<German>Großes Tarnnetz aufbauen</German>
+				<Italian>Build Large Camo Net</Italian>
+				<Polish>Build Large Camo Net</Polish>
+				<Portuguese>Build Large Camo Net</Portuguese>
+				<Russian>Build Large Camo Net</Russian>
+				<Spanish>Build Large Camo Net</Spanish>
+				<Korean>Build Large Camo Net</Korean>
+				<Japanese>大型偽装網を設置</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_Tarnnetz_boden_abbauen">
+		
+				<Original>Remove Large Camo Net</Original>
+				<English>Remove Large Camo Net</English>
+				<Czech>Remove Large Camo Net</Czech>
+				<French>Remove Large Camo Net</French>
+				<German>Großes Tarnnetz abbauen</German>
+				<Italian>Remove Large Camo Net</Italian>
+				<Polish>Remove Large Camo Net</Polish>
+				<Portuguese>Remove Large Camo Net</Portuguese>
+				<Russian>Remove Large Camo Net</Russian>
+				<Spanish>Remove Large Camo Net</Spanish>
+				<Korean>Remove Large Camo Net</Korean>
+				<Japanese>大型偽装網を撤去</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_M120_Tampella">
+		
+				<Original>M120 Tampella</Original>
+				<English>M120 Tampella</English>
+				<Czech>M120 Tampella</Czech>
+				<French>M120 Tampella</French>
+				<German>M120 Tampella</German>
+				<Italian>M120 Tampella</Italian>
+				<Polish>M120 Tampella</Polish>
+				<Portuguese>M120 Tampella</Portuguese>
+				<Russian>M120 Tampella</Russian>
+				<Spanish>M120 Tampella</Spanish>
+				<Korean>M120 Tampella</Korean>
+				<Japanese>M120 タンペラ</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_entladen">
+		
+				<Original>Unload</Original>
+				<English>Unload</English>
+				<Czech>Unload</Czech>
+				<French>Unload</French>
+				<German>Entladen</German>
+				<Italian>Unload</Italian>
+				<Polish>Unload</Polish>
+				<Portuguese>Unload</Portuguese>
+				<Russian>Unload</Russian>
+				<Spanish>Unload</Spanish>
+				<Korean>Unload</Korean>
+				<Japanese>取り出す</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_laden">
+		
+				<Original>Load</Original>
+				<English>Load</English>
+				<Czech>Load</Czech>
+				<French>Load</French>
+				<German>Laden</German>
+				<Italian>Load</Italian>
+				<Polish>Load</Polish>
+				<Portuguese>Load</Portuguese>
+				<Russian>Load</Russian>
+				<Spanish>Load</Spanish>
+				<Korean>Load</Korean>
+				<Japanese>装填</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_lade_HE">
+		
+				<Original>120mmm HE</Original>
+				<English>120mmm HE</English>
+				<Czech>120mmm HE</Czech>
+				<French>120mmm HE</French>
+				<German>120mmm Sprengpatrone</German>
+				<Italian>120mmm HE</Italian>
+				<Polish>120mmm HE</Polish>
+				<Portuguese>120mmm HE</Portuguese>
+				<Russian>120mmm HE</Russian>
+				<Spanish>120mmm HE</Spanish>
+				<Korean>120mmm HE</Korean>
+				<Japanese>120mmm HE</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_lade_HE_annz">
+		
+				<Original>120mmm HE Proximit</Original>
+				<English>120mmm HE Proximit</English>
+				<Czech>120mmm HE Proximit</Czech>
+				<French>120mmm HE Proximit</French>
+				<German>120mmm Sprengpatrone Annäherungszünder</German>
+				<Italian>120mmm HE Proximit</Italian>
+				<Polish>120mmm HE Proximit</Polish>
+				<Portuguese>120mmm HE Proximit</Portuguese>
+				<Russian>120mmm HE Proximit</Russian>
+				<Spanish>120mmm HE Proximit</Spanish>
+				<Korean>120mmm HE Proximit</Korean>
+				<Japanese>120mmm HE 近接信管</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_lade_flare">
+		
+				<Original>120mmm Illum</Original>
+				<English>120mmm Illum</English>
+				<Czech>120mmm Illum</Czech>
+				<French>120mmm Illum</French>
+				<German>120mmm Illum-Patrone</German>
+				<Italian>120mmm Illum</Italian>
+				<Polish>120mmm Illum</Polish>
+				<Portuguese>120mmm Illum</Portuguese>
+				<Russian>120mmm Illum</Russian>
+				<Spanish>120mmm Illum</Spanish>
+				<Korean>120mmm Illum</Korean>
+				<Japanese>120mmm 照明弾</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Redd_lade_nebel">
+		
+				<Original>120mmm Smoke</Original>
+				<English>120mmm Smoke</English>
+				<Czech>120mmm Smoke</Czech>
+				<French>120mmm Smoke</French>
+				<German>120mmm Nebelpatrone</German>
+				<Italian>120mmm Smoke</Italian>
+				<Polish>120mmm Smoke</Polish>
+				<Portuguese>120mmm Smoke</Portuguese>
+				<Russian>120mmm Smoke</Russian>
+				<Spanish>120mmm Smoke</Spanish>
+				<Korean>120mmm Smoke</Korean>
+				<Japanese>120mmm 発煙弾</Japanese>
+
+			</Key>
+
+			<Key ID="STR_Wiesel_1A2_TOW">
+
+				<Original>Wiesel 1A2 TOW</Original>
+				<English>Wiesel 1A2 TOW</English>
+				<Czech>Wiesel 1A2 TOW</Czech>
+				<French>Wiesel 1A2 TOW</French>
+				<German>Wiesel 1A2 TOW</German>
+				<Italian>Wiesel 1A2 TOW</Italian>
+				<Polish>Wiesel 1A2 TOW</Polish>
+				<Portuguese>Wiesel 1A2 TOW</Portuguese>
+				<Russian>Wiesel 1A2 TOW</Russian>
+				<Spanish>Wiesel 1A2 TOW</Spanish>
+				<Korean>Wiesel 1A2 TOW</Korean>
+				<Japanese>ウィーゼル 1A2 TOW</Japanese>
+				
+			</Key>
+
+			
+			<Key ID="STR_Kommandant">
+
+				<Original>Commander</Original>
+				<English>Commander</English>
+				<Czech>Commander</Czech>
+				<French>Commander</French>
+				<German>Kommandant</German>
+				<Italian>Commander</Italian>
+				<Polish>Commander</Polish>
+				<Portuguese>Commander</Portuguese>
+				<Russian>Commander</Russian>
+				<Spanish>Commander</Spanish>
+				<Korean>Commander</Korean>
+				<Japanese>車長</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Ladeschuetze">
+
+				<Original>Loader</Original>
+				<English>Loader</English>
+				<Czech>Loader</Czech>
+				<French>Loader</French>
+				<German>Ladeschütze</German>
+				<Italian>Loader</Italian>
+				<Polish>Loader</Polish>
+				<Portuguese>Loader</Portuguese>
+				<Russian>Loader</Russian>
+				<Spanish>Loader</Spanish>
+				<Korean>Loader</Korean>
+				<Japanese>装填手</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_TOW">
+
+				<Original>TOW</Original>
+				<English>TOW</English>
+				<Czech>TOW</Czech>
+				<French>TOW</French>
+				<German>TOW</German>
+				<Italian>TOW</Italian>
+				<Polish>TOW</Polish>
+				<Portuguese>TOW</Portuguese>
+				<Russian>TOW</Russian>
+				<Spanish>TOW</Spanish>
+				<Korean>TOW</Korean>
+				<Japanese>TOW</Japanese>
+				
+			</Key>
+			
+			<Key ID="STR_MG3">
+
+				<Original>MG3</Original>
+				<English>MG3</English>
+				<Czech>MG3</Czech>
+				<French>MG3</French>
+				<German>MG3</German>
+				<Italian>MG3</Italian>
+				<Polish>MG3</Polish>
+				<Portuguese>MG3</Portuguese>
+				<Russian>MG3</Russian>
+				<Spanish>MG3</Spanish>
+				<Korean>MG3</Korean>
+				<Japanese>MG3</Japanese>
+				
+			</Key>
+			
+			<Key ID="STR_TOW_benutzen">
+
+				<Original>Get In TOW</Original>
+				<English>Get In TOW</English>
+				<Czech>Get In TOW</Czech>
+				<French>Get In TOW</French>
+				<German>In TOW Einsteigen</German>
+				<Italian>Get In TOW</Italian>
+				<Polish>Get In TOW</Polish>
+				<Portuguese>Get In TOW</Portuguese>
+				<Russian>Get In TOW</Russian>
+				<Spanish>Get In TOW</Spanish>
+				<Korean>Get In TOW</Korean>
+				<Japanese>TOW を使う</Japanese>
+				
+			</Key>
+			
+			<Key ID="STR_TOW_verlassen">
+
+				<Original>Get Out Of TOW</Original>
+				<English>Get Out Of TOW</English>
+				<Czech>Get Out Of TOW</Czech>
+				<French>Get Out Of TOW</French>
+				<German>Aus TOW Aussteigen</German>
+				<Italian>Get Out Of TOW</Italian>
+				<Polish>Get Out Of TOW</Polish>
+				<Portuguese>Get Out Of TOW</Portuguese>
+				<Russian>Get Out Of TOW</Russian>
+				<Spanish>Get Out Of TOW</Spanish>
+				<Korean>Get Out Of TOW</Korean>
+				<Japanese>TOW から出る</Japanese>
+				
+			</Key>
+			
+			<Key ID="STR_Wiesel_1A2_TOW_Flecktarn">
+
+				<Original>Wiesel 1A2 TOW (Woodland)</Original>
+				<English>Wiesel 1A2 TOW (Woodland)</English>
+				<Czech>Wiesel 1A2 TOW (Woodland)</Czech>
+				<French>Wiesel 1A2 TOW (Woodland)</French>
+				<German>Wiesel 1A2 TOW (Flecktarn)</German>
+				<Italian>Wiesel 1A2 TOW (Woodland)</Italian>
+				<Polish>Wiesel 1A2 TOW (Woodland)</Polish>
+				<Portuguese>Wiesel 1A2 TOW (Woodland)</Portuguese>
+				<Russian>Wiesel 1A2 TOW (Woodland)</Russian>
+				<Spanish>Wiesel 1A2 TOW (Woodland)</Spanish>
+				<Korean>Wiesel 1A2 TOW (Woodland)</Korean>
+				<Japanese>ウィーゼル 1A2 TOW (森林迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_Wiesel_1A2_TOW_Tropentarn">
+				<Original>Wiesel 1A2 TOW (Desert)</Original>
+				<English>Wiesel 1A2 TOW (Desert)</English>
+				<Czech>Wiesel 1A2 TOW (Desert)</Czech>
+				<French>Wiesel 1A2 TOW (Desert)</French>
+				<German>Wiesel 1A2 TOW (Wüste)</German>
+				<Italian>Wiesel 1A2 TOW (Desert)</Italian>
+				<Polish>Wiesel 1A2 TOW (Desert)</Polish>
+				<Portuguese>Wiesel 1A2 TOW (Desert)</Portuguese>
+				<Russian>Wiesel 1A2 TOW (Desert)</Russian>
+				<Spanish>Wiesel 1A2 TOW (Desert)</Spanish>
+				<Korean>Wiesel 1A2 TOW (Desert)</Korean>
+				<Japanese>ウィーゼル 1A2 TOW (砂漠迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_Wiesel_1A2_TOW_Winter">
+				<Original>Wiesel 1A2 TOW (Winter)</Original>
+				<English>Wiesel 1A2 TOW (Winter)</English>
+				<Czech>Wiesel 1A2 TOW (Winter)</Czech>
+				<French>Wiesel 1A2 TOW (Winter)</French>
+				<German>Wiesel 1A2 TOW (Winter)</German>
+				<Italian>Wiesel 1A2 TOW (Winter)</Italian>
+				<Polish>Wiesel 1A2 TOW (Winter)</Polish>
+				<Portuguese>Wiesel 1A2 TOW (Winter)</Portuguese>
+				<Russian>Wiesel 1A2 TOW (Winter)</Russian>
+				<Spanish>Wiesel 1A2 TOW (Winter)</Spanish>
+				<Korean>Wiesel 1A2 TOW (Winter)</Korean>
+				<Japanese>ウィーゼル 1A2 TOW (冬季迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_Wiesel_1A4_MK20">
+
+				<Original>Wiesel 1A4 MK20</Original>
+				<English>Wiesel 1A4 MK20</English>
+				<Czech>Wiesel 1A4 MK20</Czech>
+				<French>Wiesel 1A4 MK20</French>
+				<German>Wiesel 1A4 MK20</German>
+				<Italian>Wiesel 1A4 MK20</Italian>
+				<Polish>Wiesel 1A4 MK20</Polish>
+				<Portuguese>Wiesel 1A4 MK20</Portuguese>
+				<Russian>Wiesel 1A4 MK20</Russian>
+				<Spanish>Wiesel 1A4 MK20</Spanish>
+				<Korean>Wiesel 1A4 MK20</Korean>
+				<Japanese>ウィーゼル 1A4 MK20</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Wiesel_1A4_MK20_Flecktarn">
+				<Original>Wiesel 1A4 MK20 (Woodland)</Original>
+				<English>Wiesel 1A4 MK20 (Woodland)</English>
+				<Czech>Wiesel 1A4 MK20(Woodland)</Czech>
+				<French>Wiesel 1A4 MK20 (Woodland)</French>
+				<German>Wiesel 1A4 MK20 (Flecktarn)</German>
+				<Italian>Wiesel 1A4 MK20 (Woodland)</Italian>
+				<Polish>Wiesel 1A4 MK20 (Woodland)</Polish>
+				<Portuguese>Wiesel 1A4 MK20 (Woodland)</Portuguese>
+				<Russian>Wiesel 1A4 MK20 (Woodland)</Russian>
+				<Spanish>Wiesel 1A4 MK20 (Woodland)</Spanish>
+				<Korean>Wiesel 1A4 MK20 (Woodland)</Korean>
+				<Japanese>ウィーゼル 1A4 MK20 (森林迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_Wiesel_1A4_MK20_Tropentarn">
+				<Original>Wiesel 1A4 MK20 (Desert)</Original>
+				<English>Wiesel 1A4 MK20 (Desert)</English>
+				<Czech>Wiesel 1A4 MK20 (Desert)</Czech>
+				<French>Wiesel 1A4 MK20 (Desert)</French>
+				<German>Wiesel 1A4 MK20 (Wüste)</German>
+				<Italian>Wiesel 1A4 MK20 (Desert)</Italian>
+				<Polish>Wiesel 1A4 MK20 (Desert)</Polish>
+				<Portuguese>Wiesel 1A4 MK20 (Desert)</Portuguese>
+				<Russian>Wiesel 1A4 MK20 (Desert)</Russian>
+				<Spanish>Wiesel 1A4 MK20 (Desert)</Spanish>
+				<Korean>Wiesel 1A4 MK20 (Desert)</Korean>
+				<Japanese>ウィーゼル 1A4 MK20 (砂漠迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_Wiesel_1A4_MK20_Winter">
+				<Original>Wiesel 1A4 MK20 (Winter)</Original>
+				<English>Wiesel 1A4 MK20 (Winter)</English>
+				<Czech>Wiesel 1A4 MK20 (Winter)</Czech>
+				<French>Wiesel 1A4 MK20 (Winter)</French>
+				<German>Wiesel 1A4 MK20 (Winter)</German>
+				<Italian>Wiesel 1A4 MK20 (Winter)</Italian>
+				<Polish>Wiesel 1A4 MK20 (Winter)</Polish>
+				<Portuguese>Wiesel 1A4 MK20 (Winter)</Portuguese>
+				<Russian>Wiesel 1A4 MK20 (Winter)</Russian>
+				<Spanish>Wiesel 1A4 MK20 (Winter)</Spanish>
+				<Korean>Wiesel 1A4 MK20 (Winter)</Korean>
+				<Japanese>ウィーゼル 1A4 MK20 (冬季迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_Toggle_MILS">
+				<Original>Toggle MILS</Original>
+				<English>Toggle MILS</English>
+				<Czech>Toggle MILS</Czech>
+				<French>Toggle MILS</French>
+				<German>MILS Umschalten</German>
+				<Italian>Toggle MILS</Italian>
+				<Polish>Toggle MILS</Polish>
+				<Portuguese>Toggle MILS</Portuguese>
+				<Russian>Toggle MILS</Russian>
+				<Spanish>Toggle MILS</Spanish>
+				<Korean>Toggle MILS</Korean>
+				<Japanese>ミルを切替</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_Rearm">
+				<Original>Rearm</Original>
+				<English>Rearm</English>
+				<Czech>Rearm</Czech>
+				<French>Rearm</French>
+				<German>Aufmunitionieren</German>
+				<Italian>Rearm</Italian>
+				<Polish>Rearm</Polish>
+				<Portuguese>Rearm</Portuguese>
+				<Russian>Rearm</Russian>
+				<Spanish>Rearm</Spanish>
+				<Korean>Rearm</Korean>
+				<Japanese>再補給</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_checkAmmo">
+				<Original>Check Ammo</Original>
+				<English>Check Ammo</English>
+				<Czech>Check Ammo</Czech>
+				<French>Check Ammo</French>
+				<German>Munition Prüfen</German>
+				<Italian>Check Ammo</Italian>
+				<Polish>Check Ammo</Polish>
+				<Portuguese>Check Ammo</Portuguese>
+				<Russian>Check Ammo</Russian>
+				<Spanish>Check Ammo</Spanish>
+				<Korean>Check Ammo</Korean>
+				<Japanese>弾薬を確認</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_SpPz">
+
+				<Original>Reconnaissance Vehicles</Original>
+				<English>Reconnaissance Vehicles</English>
+				<Czech>Reconnaissance Vehicles</Czech>
+				<French>Reconnaissance Vehicles</French>
+				<German>Spähfahrzeuge</German>
+				<Italian>Reconnaissance Vehicles</Italian>
+				<Polish>Reconnaissance Vehicles</Polish>
+				<Portuguese>Reconnaissance Vehicles</Portuguese>
+				<Russian>Reconnaissance Vehicles</Russian>
+				<Spanish>Reconnaissance Vehicles</Spanish>
+				<Korean>Reconnaissance Vehicles</Korean>
+				<Japanese>装甲偵察車両</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_R_Driver">
+
+				<Original>Radio Operator</Original>
+				<English>Radio Operator</English>
+				<Czech>Radio Operator</Czech>
+				<French>Radio Operator</French>
+				<German>Funker</German>
+				<Italian>Radio Operator</Italian>
+				<Polish>Radio Operator</Polish>
+				<Portuguese>Radio Operator</Portuguese>
+				<Russian>Radio Operator</Russian>
+				<Spanish>Radio Operator</Spanish>
+				<Korean>Radio Operator</Korean>
+				<Japanese>無線通信手</Japanese>
+				
+			</Key>
+
+			
+			<Key ID="STR_sppz_2a2_luchs">
+
+				<Original>Reconnaissance Tank 2A2 "Luchs"</Original>
+				<English>Reconnaissance Tank 2A2 "Luchs"</English>
+				<Czech>Reconnaissance Tank 2A2 "Luchs"</Czech>
+				<French>Reconnaissance Tank 2A2 "Luchs"</French>
+				<German>Spähpanzer 2A2 "Luchs"</German>
+				<Italian>Reconnaissance Tank 2A2 "Luchs"</Italian>
+				<Polish>Reconnaissance Tank 2A2 "Luchs"</Polish>
+				<Portuguese>Reconnaissance Tank 2A2 "Luchs"</Portuguese>
+				<Russian>Reconnaissance Tank 2A2 "Luchs"</Russian>
+				<Spanish>Reconnaissance Tank 2A2 "Luchs"</Spanish>
+				<Korean>Reconnaissance Tank 2A2 "Luchs"</Korean>
+				<Japanese>装甲偵察車両 2A2 "ルクス"</Japanese>
+				
+			</Key>
+
+			
+			<Key ID="STR_rnt_sppz_2a2_luchs_flecktarn">
+
+				<Original>Reconnaissance Tank 2A2 "Luchs" (Woodland)</Original>
+				<English>Reconnaissance Tank 2A2 "Luchs" (Woodland)</English>
+				<Czech>Reconnaissance Tank 2A2 "Luchs" (Woodland)</Czech>
+				<French>Reconnaissance Tank 2A2 "Luchs" (Woodland)</French>
+				<German>Spähpanzer 2A2 "Luchs" (Flecktarn)</German>
+				<Italian>Reconnaissance Tank 2A2 "Luchs" (Woodland)</Italian>
+				<Polish>Reconnaissance Tank 2A2 "Luchs" (Woodland)</Polish>
+				<Portuguese>Reconnaissance Tank 2A2 "Luchs" (Woodland)</Portuguese>
+				<Russian>Reconnaissance Tank 2A2 "Luchs" (Woodland)</Russian>
+				<Spanish>Reconnaissance Tank 2A2 "Luchs" (Woodland)</Spanish>
+				<Korean>Reconnaissance Tank 2A2 "Luchs" (Woodland)</Korean>
+				<Japanese>装甲偵察車両 2A2 "ルクス" (森林迷彩)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_rnt_sppz_2a2_luchs_tropentarn">
+
+				<Original>Reconnaissance Tank 2A2 "Luchs" (Desert)</Original>
+				<English>Reconnaissance Tank 2A2 "Luchs" (Desert)</English>
+				<Czech>Reconnaissance Tank 2A2 "Luchs" (Desert)</Czech>
+				<French>Reconnaissance Tank 2A2 "Luchs" (Desert)</French>
+				<German>Spähpanzer 2A2 "Luchs" (Wüste)</German>
+				<Italian>Reconnaissance Tank 2A2 "Luchs" (Desert)</Italian>
+				<Polish>Reconnaissance Tank 2A2 "Luchs" (Desert)</Polish>
+				<Portuguese>Reconnaissance Tank 2A2 "Luchs" (Desert)</Portuguese>
+				<Russian>Reconnaissance Tank 2A2 "Luchs" (Desert)</Russian>
+				<Spanish>Reconnaissance Tank 2A2 "Luchs" (Desert)</Spanish>
+				<Korean>Reconnaissance Tank 2A2 "Luchs" (Desert)</Korean>
+				<Japanese>装甲偵察車両 2A2 "ルクス" (砂漠迷彩)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_rnt_sppz_2a2_luchs_wintertarn">
+
+				<Original>Reconnaissance Tank 2A2 "Luchs" (Winter)</Original>
+				<English>Reconnaissance Tank 2A2 "Luchs" (Winter)</English>
+				<Czech>Reconnaissance Tank 2A2 "Luchs" (Winter)</Czech>
+				<French>Reconnaissance Tank 2A2 "Luchs" (Winter)</French>
+				<German>Spähpanzer 2A2 "Luchs" (Winter)</German>
+				<Italian>Reconnaissance Tank 2A2 "Luchs" (Winter)</Italian>
+				<Polish>Reconnaissance Tank 2A2 "Luchs" (Winter)</Polish>
+				<Portuguese>Reconnaissance Tank 2A2 "Luchs" (Winter)</Portuguese>
+				<Russian>Reconnaissance Tank 2A2 "Luchs" (Winter)</Russian>
+				<Spanish>Reconnaissance Tank 2A2 "Luchs" (Winter)</Spanish>
+				<Korean>Reconnaissance Tank 2A2 "Luchs" (Winter)</Korean>
+				<Japanese>装甲偵察車両 2A2 "ルクス" (冬季迷彩)</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Luke_zu">
+
+				<Original>Turn In</Original>
+				<English>Turn In</English>
+				<Czech>Turn In</Czech>
+				<French>Turn In</French>
+				<German>Luke schließen</German>
+				<Italian>Turn In</Italian>
+				<Polish>Turn In</Polish>
+				<Portuguese>Turn In</Portuguese>
+				<Russian>Turn In</Russian>
+				<Spanish>Turn In</Spanish>
+				<Korean>Turn In</Korean>
+				<Japanese>中に入る</Japanese>
+				
+			</Key>
+
+			<Key ID="STR_Redd_5t_Wreck">
+				<Original>LKW 5t mil gl KAT I (Wreck)</Original>
+				<English>LKW 5t mil gl KAT I (Wreck)</English>
+				<Czech>LKW 5t mil gl KAT I (Wreck)</Czech>
+				<French>LKW 5t mil gl KAT I (Wreck)</French>
+				<German>LKW 5t mil gl KAT I (Wrack)</German>
+				<Italian>LKW 5t mil gl KAT I (Wreck)</Italian>
+				<Polish>LKW 5t mil gl KAT I (Wreck)</Polish>
+				<Portuguese>LKW 5t mil gl KAT I (Wreck)</Portuguese>
+				<Russian>LKW 5t mil gl KAT I (Wreck)</Russian>
+				<Spanish>LKW 5t mil gl KAT I (Wreck)</Spanish>
+				<Korean>LKW 5t mil gl KAT I (Wreck)</Korean>
+				<Japanese>LKW 5t mil gl KAT I (残骸)</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_7t_Wreck">
+				<Original>LKW 7t mil gl KAT I (Wreck)</Original>
+				<English>LKW 7t mil gl KAT I (Wreck)</English>
+				<Czech>LKW 7t mil gl KAT I (Wreck)</Czech>
+				<French>LKW 7t mil gl KAT I (Wreck)</French>
+				<German>LKW 7t mil gl KAT I (Wrack)</German>
+				<Italian>LKW 7t mil gl KAT I (Wreck)</Italian>
+				<Polish>LKW 7t mil gl KAT I (Wreck)</Polish>
+				<Portuguese>LKW 7t mil gl KAT I (Wreck)</Portuguese>
+				<Russian>LKW 7t mil gl KAT I (Wreck)</Russian>
+				<Spanish>LKW 7t mil gl KAT I (Wreck)</Spanish>
+				<Korean>LKW 7t mil gl KAT I (Wreck)</Korean>
+				<Japanese>LKW 7t mil gl KAT I (残骸)</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_10t_Wreck">
+				<Original>LKW 10t mil gl KAT I (Wreck)</Original>
+				<English>LKW 10t mil gl KAT I (Wreck)</English>
+				<Czech>LKW 10t mil gl KAT I (Wreck)</Czech>
+				<French>LKW 10t mil gl KAT I (Wreck)</French>
+				<German>LKW 10t mil gl KAT I (Wrack)</German>
+				<Italian>LKW 10t mil gl KAT I (Wreck)</Italian>
+				<Polish>LKW 10t mil gl KAT I (Wreck)</Polish>
+				<Portuguese>LKW 10t mil gl KAT I (Wreck)</Portuguese>
+				<Russian>LKW 10t mil gl KAT I (Wreck)</Russian>
+				<Spanish>LKW 10t mil gl KAT I (Wreck)</Spanish>
+				<Korean>LKW 10t mil gl KAT I (Wreck)</Korean>
+				<Japanese>LKW 10t mil gl KAT I (残骸)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_5t_mil_gl_kat_i_transport_fleck">
+				<Original>LKW 5t mil gl KAT I Transport (Woodland)</Original>
+				<English>LKW 5t mil gl KAT I Transport (Woodland)</English>
+				<Czech>LKW 5t mil gl KAT I Transport (Woodland)</Czech>
+				<French>LKW 5t mil gl KAT I Transport (Woodland)</French>
+				<German>LKW 5t mil gl KAT I Transport (Flecktarn)</German>
+				<Italian>LKW 5t mil gl KAT I Transport (Woodland)</Italian>
+				<Polish>LKW 5t mil gl KAT I Transport (Woodland)</Polish>
+				<Portuguese>LKW 5t mil gl KAT I Transport (Woodland)</Portuguese>
+				<Russian>LKW 5t mil gl KAT I Transport (Woodland)</Russian>
+				<Spanish>LKW 5t mil gl KAT I Transport (Woodland)</Spanish>
+				<Korean>LKW 5t mil gl KAT I Transport (Woodland)</Korean>
+				<Japanese>LKW 5t mil gl KAT I 輸送仕様 (森林迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_5t_mil_gl_kat_i_transport_trope">
+				<Original>LKW 5t mil gl KAT I Transport (Desert)</Original>
+				<English>LKW 5t mil gl KAT I Transport (Desert)</English>
+				<Czech>LKW 5t mil gl KAT I Transport (Desert)</Czech>
+				<French>LKW 5t mil gl KAT I Transport (Desert)</French>
+				<German>LKW 5t mil gl KAT I Transport (Wüste)</German>
+				<Italian>LKW 5t mil gl KAT I Transport (Desert)</Italian>
+				<Polish>LKW 5t mil gl KAT I Transport (Desert)</Polish>
+				<Portuguese>LKW 5t mil gl KAT I Transport (Desert)</Portuguese>
+				<Russian>LKW 5t mil gl KAT I Transport (Desert)</Russian>
+				<Spanish>LKW 5t mil gl KAT I Transport (Desert)</Spanish>
+				<Korean>LKW 5t mil gl KAT I Transport (Desert)</Korean>
+				<Japanese>LKW 5t mil gl KAT I 輸送仕様 (砂漠迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_5t_mil_gl_kat_i_transport_winter">
+				<Original>LKW 5t mil gl KAT I Transport (Winter)</Original>
+				<English>LKW 5t mil gl KAT I Transport (Winter)</English>
+				<Czech>LKW 5t mil gl KAT I Transport (Winter)</Czech>
+				<French>LKW 5t mil gl KAT I Transport (Winter)</French>
+				<German>LKW 5t mil gl KAT I Transport (Winter)</German>
+				<Italian>LKW 5t mil gl KAT I Transport (Winter)</Italian>
+				<Polish>LKW 5t mil gl KAT I Transport (Winter)</Polish>
+				<Portuguese>LKW 5t mil gl KAT I Transport (Winter)</Portuguese>
+				<Russian>LKW 5t mil gl KAT I Transport (Winter)</Russian>
+				<Spanish>LKW 5t mil gl KAT I Transport (Winter)</Spanish>
+				<Korean>LKW 5t mil gl KAT I Transport (Winter)</Korean>
+				<Japanese>LKW 5t mil gl KAT I 輸送仕様 (冬季迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_5t_mil_gl_kat_i_fuel_fleck">
+				<Original>LKW 5t mil gl KAT I Fuel (Woodland)</Original>
+				<English>LKW 5t mil gl KAT I Fuel (Woodland)</English>
+				<Czech>LKW 5t mil gl KAT I Fuel (Woodland)</Czech>
+				<French>LKW 5t mil gl KAT I Fuel (Woodland)</French>
+				<German>LKW 5t mil gl KAT I Treibstoff (Flecktarn)</German>
+				<Italian>LKW 5t mil gl KAT I Fuel (Woodland)</Italian>
+				<Polish>LKW 5t mil gl KAT I Fuel (Woodland)</Polish>
+				<Portuguese>LKW 5t mil gl KAT I Fuel (Woodland)</Portuguese>
+				<Russian>LKW 5t mil gl KAT I Fuel (Woodland)</Russian>
+				<Spanish>LKW 5t mil gl KAT I Fuel (Woodland)</Spanish>
+				<Korean>LKW 5t mil gl KAT I Fuel (Woodland)</Korean>
+				<Japanese>LKW 5t mil gl KAT I 燃料仕様 (森林迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_5t_mil_gl_kat_i_fuel_trope">
+				<Original>LKW 5t mil gl KAT I Fuel (Desert)</Original>
+				<English>LKW 5t mil gl KAT I Fuel (Desert)</English>
+				<Czech>LKW 5t mil gl KAT I Fuel (Desert)</Czech>
+				<French>LKW 5t mil gl KAT I Fuel (Desert)</French>
+				<German>LKW 5t mil gl KAT I Treibstoff (Wüste)</German>
+				<Italian>LKW 5t mil gl KAT I Fuel (Desert)</Italian>
+				<Polish>LKW 5t mil gl KAT I Fuel (Desert)</Polish>
+				<Portuguese>LKW 5t mil gl KAT I Fuel (Desert)</Portuguese>
+				<Russian>LKW 5t mil gl KAT I Fuel (Desert)</Russian>
+				<Spanish>LKW 5t mil gl KAT I Fuel (Desert)</Spanish>
+				<Korean>LKW 5t mil gl KAT I Fuel (Desert)</Korean>
+				<Japanese>LKW 5t mil gl KAT I 燃料仕様 (砂漠迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_5t_mil_gl_kat_i_fuel_winter">
+				<Original>LKW 5t mil gl KAT I Fuel (Winter)</Original>
+				<English>LKW 5t mil gl KAT I Fuel (Winter)</English>
+				<Czech>LKW 5t mil gl KAT I Fuel (Winter)</Czech>
+				<French>LKW 5t mil gl KAT I Fuel (Winter)</French>
+				<German>LKW 5t mil gl KAT I Treibstoff (Winter)</German>
+				<Italian>LKW 5t mil gl KAT I Fuel (Winter)</Italian>
+				<Polish>LKW 5t mil gl KAT I Fuel (Winter)</Polish>
+				<Portuguese>LKW 5t mil gl KAT I Fuel (Winter)</Portuguese>
+				<Russian>LKW 5t mil gl KAT I Fuel (Winter)</Russian>
+				<Spanish>LKW 5t mil gl KAT I Fuel (Winter)</Spanish>
+				<Korean>LKW 5t mil gl KAT I Fuel (Winter)</Korean>
+				<Japanese>LKW 5t mil gl KAT I 燃料仕様 (冬季迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_7t_mil_gl_kat_i_transport_fleck">
+				<Original>LKW 7t mil gl KAT I Transport (Woodland)</Original>
+				<English>LKW 7t mil gl KAT I Transport (Woodland)</English>
+				<Czech>LKW 7t mil gl KAT I Transport (Woodland)</Czech>
+				<French>LKW 7t mil gl KAT I Transport (Woodland)</French>
+				<German>LKW 7t mil gl KAT I Transport (Flecktarn)</German>
+				<Italian>LKW 7t mil gl KAT I Transport (Woodland)</Italian>
+				<Polish>LKW 7t mil gl KAT I Transport (Woodland)</Polish>
+				<Portuguese>LKW 7t mil gl KAT I Transport (Woodland)</Portuguese>
+				<Russian>LKW 7t mil gl KAT I Transport (Woodland)</Russian>
+				<Spanish>LKW 7t mil gl KAT I Transport (Woodland)</Spanish>
+				<Korean>LKW 7t mil gl KAT I Transport (Woodland)</Korean>
+				<Japanese>LKW 7t mil gl KAT I 輸送仕様 (森林迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_7t_mil_gl_kat_i_transport_trope">
+				<Original>LKW 7t mil gl KAT I Transport (Desert)</Original>
+				<English>LKW 7t mil gl KAT I Transport (Desert)</English>
+				<Czech>LKW 7t mil gl KAT I Transport (Desert)</Czech>
+				<French>LKW 7t mil gl KAT I Transport (Desert)</French>
+				<German>LKW 7t mil gl KAT I Transport (Wüste)</German>
+				<Italian>LKW 7t mil gl KAT I Transport (Desert)</Italian>
+				<Polish>LKW 7t mil gl KAT I Transport (Desert)</Polish>
+				<Portuguese>LKW 7t mil gl KAT I Transport (Desert)</Portuguese>
+				<Russian>LKW 7t mil gl KAT I Transport (Desert)</Russian>
+				<Spanish>LKW 7t mil gl KAT I Transport (Desert)</Spanish>
+				<Korean>LKW 7t mil gl KAT I Transport (Desert)</Korean>
+				<Japanese>LKW 7t mil gl KAT I 輸送仕様 (砂漠迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_7t_mil_gl_kat_i_transport_winter">
+				<Original>LKW 7t mil gl KAT I Transport (Winter)</Original>
+				<English>LKW 7t mil gl KAT I Transport (Winter)</English>
+				<Czech>LKW 7t mil gl KAT I Transport (Winter)</Czech>
+				<French>LKW 7t mil gl KAT I Transport (Winter)</French>
+				<German>LKW 7t mil gl KAT I Transport (Winter)</German>
+				<Italian>LKW 7t mil gl KAT I Transport (Winter)</Italian>
+				<Polish>LKW 7t mil gl KAT I Transport (Winter)</Polish>
+				<Portuguese>LKW 7t mil gl KAT I Transport (Winter)</Portuguese>
+				<Russian>LKW 7t mil gl KAT I Transport (Winter)</Russian>
+				<Spanish>LKW 7t mil gl KAT I Transport (Winter)</Spanish>
+				<Korean>LKW 7t mil gl KAT I Transport (Winter)</Korean>
+				<Japanese>LKW 7t mil gl KAT I 輸送仕様 (冬季迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_7t_mil_gl_kat_i_ammunition_fleck">
+				<Original>LKW 7t mil gl KAT I Ammunition (Woodland)</Original>
+				<English>LKW 7t mil gl KAT I Ammunition (Woodland)</English>
+				<Czech>LKW 7t mil gl KAT I Ammunition (Woodland)</Czech>
+				<French>LKW 7t mil gl KAT I Ammunition (Woodland)</French>
+				<German>LKW 7t mil gl KAT I Munition (Flecktarn)</German>
+				<Italian>LKW 7t mil gl KAT I Ammunition (Woodland)</Italian>
+				<Polish>LKW 7t mil gl KAT I Ammunition (Woodland)</Polish>
+				<Portuguese>LKW 7t mil gl KAT I Ammunition (Woodland)</Portuguese>
+				<Russian>LKW 7t mil gl KAT I Ammunition (Woodland)</Russian>
+				<Spanish>LKW 7t mil gl KAT I Ammunition (Woodland)</Spanish>
+				<Korean>LKW 7t mil gl KAT I Ammunition (Woodland)</Korean>
+				<Japanese>LKW 7t mil gl KAT I 弾薬仕様 (森林迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_7t_mil_gl_kat_i_ammunition_trope">
+				<Original>LKW 7t mil gl KAT I Ammunition (Desert)</Original>
+				<English>LKW 7t mil gl KAT I Ammunition (Desert)</English>
+				<Czech>LKW 7t mil gl KAT I Ammunition (Desert)</Czech>
+				<French>LKW 7t mil gl KAT I Ammunition (Desert)</French>
+				<German>LKW 7t mil gl KAT I Munition (Wüste)</German>
+				<Italian>LKW 7t mil gl KAT I Ammunition (Desert)</Italian>
+				<Polish>LKW 7t mil gl KAT I Ammunition (Desert)</Polish>
+				<Portuguese>LKW 7t mil gl KAT I Ammunition (Desert)</Portuguese>
+				<Russian>LKW 7t mil gl KAT I Ammunition (Desert)</Russian>
+				<Spanish>LKW 7t mil gl KAT I Ammunition (Desert)</Spanish>
+				<Korean>LKW 7t mil gl KAT I Ammunition (Desert)</Korean>
+				<Japanese>LKW 7t mil gl KAT I 弾薬仕様 (砂漠迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_7t_mil_gl_kat_i_ammunition_winter">
+				<Original>LKW 7t mil gl KAT I Ammunition (Winter)</Original>
+				<English>LKW 7t mil gl KAT I Ammunition (Winter)</English>
+				<Czech>LKW 7t mil gl KAT I Ammunition (Winter)</Czech>
+				<French>LKW 7t mil gl KAT I Ammunition (Winter)</French>
+				<German>LKW 7t mil gl KAT I Munition (Winter)</German>
+				<Italian>LKW 7t mil gl KAT I Ammunition (Winter)</Italian>
+				<Polish>LKW 7t mil gl KAT I Ammunition (Winter)</Polish>
+				<Portuguese>LKW 7t mil gl KAT I Ammunition (Winter)</Portuguese>
+				<Russian>LKW 7t mil gl KAT I Ammunition (Winter)</Russian>
+				<Spanish>LKW 7t mil gl KAT I Ammunition (Winter)</Spanish>
+				<Korean>LKW 7t mil gl KAT I Ammunition (Winter)</Korean>
+				<Japanese>LKW 7t mil gl KAT I 弾薬仕様 (冬季迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_10t_mil_gl_kat_i_repair_fleck">
+				<Original>LKW 10t mil gl KAT I Repair (Woodland)</Original>
+				<English>LKW 10t mil gl KAT I Repair (Woodland)</English>
+				<Czech>LKW 10t mil gl KAT I Repair (Woodland)</Czech>
+				<French>LKW 10t mil gl KAT I Repair (Woodland)</French>
+				<German>LKW 10t mil gl KAT I Reparatur (Flecktarn)</German>
+				<Italian>LKW 10t mil gl KAT I Repair (Woodland)</Italian>
+				<Polish>LKW 10t mil gl KAT I Repair (Woodland)</Polish>
+				<Portuguese>LKW 10t mil gl KAT I Repair (Woodland)</Portuguese>
+				<Russian>LKW 10t mil gl KAT I Repair (Woodland)</Russian>
+				<Spanish>LKW 10t mil gl KAT I Repair (Woodland)</Spanish>
+				<Korean>LKW 10t mil gl KAT I Repair (Woodland)</Korean>
+				<Japanese>LKW 10t mil gl KAT I 修理仕様 (森林迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_10t_mil_gl_kat_i_repair_trope">
+				<Original>LKW 10t mil gl KAT I Repair (Desert)</Original>
+				<English>LKW 10t mil gl KAT I Repair (Desert)</English>
+				<Czech>LKW 10t mil gl KAT I Repair (Desert)</Czech>
+				<French>LKW 10t mil gl KAT I Repair (Desert)</French>
+				<German>LKW 10t mil gl KAT I Reparatur (Wüste)</German>
+				<Italian>LKW 10t mil gl KAT I Repair (Desert)</Italian>
+				<Polish>LKW 10t mil gl KAT I Repair (Desert)</Polish>
+				<Portuguese>LKW 10t mil gl KAT I Repair (Desert)</Portuguese>
+				<Russian>LKW 10t mil gl KAT I Repair (Desert)</Russian>
+				<Spanish>LKW 10t mil gl KAT I Repair (Desert)</Spanish>
+				<Korean>LKW 10t mil gl KAT I Repair (Desert)</Korean>
+				<Japanese>LKW 10t mil gl KAT I 修理仕様 (砂漠迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_lkw_10t_mil_gl_kat_i_repair_winter">
+				<Original>LKW 10t mil gl KAT I Repair (Winter)</Original>
+				<English>LKW 10t mil gl KAT I Repair (Winter)</English>
+				<Czech>LKW 10t mil gl KAT I Repair (Winter)</Czech>
+				<French>LKW 10t mil gl KAT I Repair (Winter)</French>
+				<German>LKW 10t mil gl KAT I Reparatur (Winter)</German>
+				<Italian>LKW 10t mil gl KAT I Repair (Winter)</Italian>
+				<Polish>LKW 10t mil gl KAT I Repair (Winter)</Polish>
+				<Portuguese>LKW 10t mil gl KAT I Repair (Winter)</Portuguese>
+				<Russian>LKW 10t mil gl KAT I Repair (Winter)</Russian>
+				<Spanish>LKW 10t mil gl KAT I Repair (Winter)</Spanish>
+				<Korean>LKW 10t mil gl KAT I Repair (Winter)</Korean>
+				<Japanese>LKW 10t mil gl KAT I 修理仕様 (冬季迷彩)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_mg3_kasten">
+				<Original>MG3 ammo box</Original>
+				<English>MG3 ammo box</English>
+				<Czech>MG3 ammo box</Czech>
+				<French>MG3 ammo box</French>
+				<German>MG3 Gurtkasten</German>
+				<Italian>MG3 ammo box</Italian>
+				<Polish>MG3 ammo box</Polish>
+				<Portuguese>MG3 ammo box</Portuguese>
+				<Russian>MG3 ammo box</Russian>
+				<Spanish>MG3 ammo box</Spanish>
+				<Korean>MG3 ammo box</Korean>
+				<Japanese>MG3 弾薬箱</Japanese>
+			</Key>
+
+			<Key ID="STR_in_backpack">
+				<Original>Take MG3 ammo box</Original>
+				<English>Take MG3 ammo box</English>
+				<Czech>Take MG3 ammo box</Czech>
+				<French>Take MG3 ammo box</French>
+				<German>Nehmen MG3 Gurtkasten</German>
+				<Italian>Take MG3 ammo box</Italian>
+				<Polish>Take MG3 ammo box</Polish>
+				<Portuguese>Take MG3 ammo box</Portuguese>
+				<Russian>Take MG3 ammo box</Russian>
+				<Spanish>Take MG3 ammo box</Spanish>
+				<Korean>Take MG3 ammo box</Korean>
+				<Japanese>MG3 弾薬箱を取る</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_mg3_static">
+				<Original>MG3 (Tripod)</Original>
+				<English>MG3 (Tripod)</English>
+				<Czech>MG3 (Tripod)</Czech>
+				<French>MG3 (Tripod)</French>
+				<German>MG3 (Lafette)</German>
+				<Italian>MG3 (Tripod)</Italian>
+				<Polish>MG3 (Tripod)</Polish>
+				<Portuguese>MG3 (Tripod)</Portuguese>
+				<Russian>MG3 (Tripod)</Russian>
+				<Spanish>MG3 (Tripod)</Spanish>
+				<Korean>MG3 (Tripod)</Korean>
+				<Japanese>MG3 (三脚)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_mg3_static_ai">
+				<Original>MG3 - AI (Tripod)</Original>
+				<English>MG3 - AI (Tripod)</English>
+				<Czech>MG3 - AI (Tripod)</Czech>
+				<French>MG3 - AI (Tripod)</French>
+				<German>MG3 - KI (Lafette)</German>
+				<Italian>MG3 - AI (Tripod)</Italian>
+				<Polish>MG3 - AI (Tripod)</Polish>
+				<Portuguese>MG3 - AI (Tripod)</Portuguese>
+				<Russian>MG3 - AI (Tripod)</Russian>
+				<Spanish>MG3 - AI (Tripod)</Spanish>
+				<Korean>MG3 - AI (Tripod)</Korean>
+				<Japanese>MG3 - AI (三脚)</Japanese>
+			</Key>
+
+			<Key ID="STR_mg3_hohe_justieren_hoeher">
+				<Original>MG3 adjust height (up)</Original>
+				<English>MG3 adjust height (up)</English>
+				<Czech>MG3 adjust height (up)</Czech>
+				<French>MG3 adjust height (up)</French>
+				<German>MG3 Höhe justieren (höher)</German>
+				<Italian>MG3 adjust height (up)</Italian>
+				<Polish>MG3 adjust height (up)</Polish>
+				<Portuguese>MG3 adjust height (up)</Portuguese>
+				<Russian>MG3 adjust height (up)</Russian>
+				<Spanish>MG3 adjust height (up)</Spanish>
+				<Korean>MG3 adjust height (up)</Korean>
+				<Japanese>MG3 の高さ調整 (上に)</Japanese>
+			</Key>
+
+			<Key ID="STR_mg3_hohe_justieren_tiefer">
+				<Original>MG3 adjust height (down)</Original>
+				<English>MG3 adjust height (down)</English>
+				<Czech>MG3 adjust height (down)</Czech>
+				<French>MG3 adjust height (down)</French>
+				<German>MG3 Höhe justieren (tiefer)</German>
+				<Italian>MG3 adjust height (down)</Italian>
+				<Polish>MG3 adjust height (down)</Polish>
+				<Portuguese>MG3 adjust height (down)</Portuguese>
+				<Russian>MG3 adjust height (down)</Russian>
+				<Spanish>MG3 adjust height (down)</Spanish>
+				<Korean>MG3 adjust height (down)</Korean>
+				<Japanese>MG3 の高さ調整 (下に)</Japanese>
+			</Key>
+
+			<Key ID="STR_mg3_drehen_links">
+				<Original>MG3 turn left</Original>
+				<English>MG3 turn left</English>
+				<Czech>MG3 turn left</Czech>
+				<French>MG3 turn left</French>
+				<German>MG3 links drehen</German>
+				<Italian>MG3 turn left</Italian>
+				<Polish>MG3 turn left</Polish>
+				<Portuguese>MG3 turn left</Portuguese>
+				<Russian>MG3 turn left</Russian>
+				<Spanish>MG3 turn left</Spanish>
+				<Korean>MG3 turn left</Korean>
+				<Japanese>MG3 を左に向ける</Japanese>
+			</Key>
+
+			<Key ID="STR_mg3_drehen_rechts">
+				<Original>MG3 turn right</Original>
+				<English>MG3 turn right</English>
+				<Czech>MG3 turn right</Czech>
+				<French>MG3 turn right</French>
+				<German>MG3 rechts drehen</German>
+				<Italian>MG3 turn right</Italian>
+				<Polish>MG3 turn right</Polish>
+				<Portuguese>MG3 turn right</Portuguese>
+				<Russian>MG3 turn right</Russian>
+				<Spanish>MG3 turn right</Spanish>
+				<Korean>MG3 turn right</Korean>
+				<Japanese>MG3 を右に向ける</Japanese>
+			</Key>
+
+			<Key ID="STR_mg3_laden">
+				<Original>Reload MG3</Original>
+				<English>Reload MG3</English>
+				<Czech>Reload MG3</Czech>
+				<French>Reload MG3</French>
+				<German>MG3 nachladen</German>
+				<Italian>Reload MG3</Italian>
+				<Polish>Reload MG3</Polish>
+				<Portuguese>Reload MG3</Portuguese>
+				<Russian>Reload MG3</Russian>
+				<Spanish>Reload MG3</Spanish>
+				<Korean>Reload MG3</Korean>
+				<Japanese>MG3 を再装填</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_MG3_Belt_100_fake">
+				<Original>MG3 100 rounds belt</Original>
+				<English>MG3 100 rounds belt</English>
+				<Czech>MG3 100 rounds belt</Czech>
+				<French>MG3 100 rounds belt</French>
+				<German>MG3 100 Schuss Gurt</German>
+				<Italian>MG3 100 rounds belt</Italian>
+				<Polish>MG3 100 rounds belt</Polish>
+				<Portuguese>MG3 100 rounds belt</Portuguese>
+				<Russian>MG3 100 rounds belt</Russian>
+				<Spanish>MG3 100 rounds belt</Spanish>
+				<Korean>MG3 100 rounds belt</Korean>
+				<Japanese>MG3 100 発入りベルト</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_mg3_kasten_fake">
+				<Original>MG3 ammo box</Original>
+				<English>MG3 ammo box</English>
+				<Czech>MG3 ammo box</Czech>
+				<French>MG3 ammo box</French>
+				<German>MG3 Gurtkasten</German>
+				<Italian>MG3 ammo box</Italian>
+				<Polish>MG3 ammo box</Polish>
+				<Portuguese>MG3 ammo box</Portuguese>
+				<Russian>MG3 ammo box</Russian>
+				<Spanish>MG3 ammo box</Spanish>
+				<Korean>MG3 ammo box</Korean>
+				<Japanese>MG3 弾薬箱</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_MG3_Belt_100">
+				<Original>MG3 100 rounds belt</Original>
+				<English>MG3 100 rounds belt</English>
+				<Czech>MG3 100 rounds belt</Czech>
+				<French>MG3 100 rounds belt</French>
+				<German>MG3 100 Schuss Gurt</German>
+				<Italian>MG3 100 rounds belt</Italian>
+				<Polish>MG3 100 rounds belt</Polish>
+				<Portuguese>MG3 100 rounds belt</Portuguese>
+				<Russian>MG3 100 rounds belt</Russian>
+				<Spanish>MG3 100 rounds belt</Spanish>
+				<Korean>MG3 100 rounds belt</Korean>
+				<Japanese>MG3 100 発入りベルト</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_mg3_static_barell">
+				<Original>MG3 for tripod</Original>
+				<English>MG3 for tripod</English>
+				<Czech>MG3 for tripod</Czech>
+				<French>MG3 for tripod</French>
+				<German>MG3 für Lafette</German>
+				<Italian>MG3 for tripod</Italian>
+				<Polish>MG3 for tripod</Polish>
+				<Portuguese>MG3 for tripod</Portuguese>
+				<Russian>MG3 for tripod</Russian>
+				<Spanish>MG3 for tripod</Spanish>
+				<Korean>MG3 for tripod</Korean>
+				<Japanese>MG3 用三脚</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_mg3_static_tripod">
+				<Original>Tripod for MG3</Original>
+				<English>Tripod for MG3</English>
+				<Czech>Tripod for MG3</Czech>
+				<French>Tripod for MG3</French>
+				<German>Lafette für MG3</German>
+				<Italian>Tripod for MG3</Italian>
+				<Polish>Tripod for MG3</Polish>
+				<Portuguese>Tripod for MG3</Portuguese>
+				<Russian>Tripod for MG3</Russian>
+				<Spanish>Tripod for MG3</Spanish>
+				<Korean>Tripod for MG3</Korean>
+				<Japanese>MG3 用三脚</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_mg3_static_barell_ai">
+				<Original>MG3 for tripod - AI</Original>
+				<English>MG3 for tripod - AI</English>
+				<Czech>MG3 for tripod - AI</Czech>
+				<French>MG3 for tripod - AI</French>
+				<German>MG3 für Lafette - KI</German>
+				<Italian>MG3 for tripod - AI</Italian>
+				<Polish>MG3 for tripod - AI</Polish>
+				<Portuguese>MG3 for tripod - AI</Portuguese>
+				<Russian>MG3 for tripod - AI</Russian>
+				<Spanish>MG3 for tripod - AI</Spanish>
+				<Korean>MG3 for tripod - AI</Korean>
+				<Japanese>MG3 用三脚 - AI</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_mg3_static_tripod_ai">
+				<Original>Tripod for MG3 - AI</Original>
+				<English>Tripod for MG3 - AI</English>
+				<Czech>Tripod for MG3 - AI</Czech>
+				<French>Tripod for MG3 - AI</French>
+				<German>Lafette für MG3 - KI</German>
+				<Italian>Tripod for MG3 - AI</Italian>
+				<Polish>Tripod for MG3 - AI</Polish>
+				<Portuguese>Tripod for MG3 - AI</Portuguese>
+				<Russian>Tripod for MG3 - AI</Russian>
+				<Spanish>Tripod for MG3 - AI</Spanish>
+				<Korean>Tripod for MG3 - AI</Korean>
+				<Japanese>MG3 用三脚 - AI</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_mg3_laden">
+				<Original>Reload</Original>
+				<English>Reload</English>
+				<Czech>Reload</Czech>
+				<French>Reload</French>
+				<German>Nachladen</German>
+				<Italian>Reload</Italian>
+				<Polish>Reload</Polish>
+				<Portuguese>Reload</Portuguese>
+				<Russian>Reload</Russian>
+				<Spanish>Reload</Spanish>
+				<Korean>Reload</Korean>
+				<Japanese>再装填</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_MG_hoehe_justieren">
+				<Original>Adjust height</Original>
+				<English>Adjust height</English>
+				<Czech>Adjust height</Czech>
+				<French>Adjust height</French>
+				<German>Höhe justieren</German>
+				<Italian>Adjust height</Italian>
+				<Polish>Adjust height</Polish>
+				<Portuguese>Adjust height</Portuguese>
+				<Russian>Adjust height</Russian>
+				<Spanish>Adjust height</Spanish>
+				<Korean>Adjust height</Korean>
+				<Japanese>高さ調整</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_mg3_hohe_justieren_hoeher">
+				<Original>Up</Original>
+				<English>Up</English>
+				<Czech>Up</Czech>
+				<French>Up</French>
+				<German>Höher</German>
+				<Italian>Up</Italian>
+				<Polish>Up</Polish>
+				<Portuguese>Up</Portuguese>
+				<Russian>Up</Russian>
+				<Spanish>Up</Spanish>
+				<Korean>Up</Korean>
+				<Japanese>上に</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_mg3_hohe_justieren_tiefer">
+				<Original>Down</Original>
+				<English>Down</English>
+				<Czech>Down</Czech>
+				<French>Down</French>
+				<German>Tiefer</German>
+				<Italian>Down</Italian>
+				<Polish>Down</Polish>
+				<Portuguese>Down</Portuguese>
+				<Russian>Down</Russian>
+				<Spanish>Down</Spanish>
+				<Korean>Down</Korean>
+				<Japanese>下に</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_MG_drehen">
+				<Original>Turn</Original>
+				<English>Turn</English>
+				<Czech>Turn</Czech>
+				<French>Turn</French>
+				<German>Drehen</German>
+				<Italian>Turn</Italian>
+				<Polish>Turn</Polish>
+				<Portuguese>Turn</Portuguese>
+				<Russian>Turn</Russian>
+				<Spanish>Turn</Spanish>
+				<Korean>Turn</Korean>
+				<Japanese>方向転換</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_mg3_drehen_links">
+				<Original>Left</Original>
+				<English>Left</English>
+				<Czech>Left</Czech>
+				<French>Left</French>
+				<German>Links</German>
+				<Italian>Left</Italian>
+				<Polish>Left</Polish>
+				<Portuguese>Left</Portuguese>
+				<Russian>Left</Russian>
+				<Spanish>Left</Spanish>
+				<Korean>Left</Korean>
+				<Japanese>左に</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_mg3_drehen_rechts">
+				<Original>Right</Original>
+				<English>Right</English>
+				<Czech>Right</Czech>
+				<French>Right</French>
+				<German>Rechts</German>
+				<Italian>Right</Italian>
+				<Polish>Right</Polish>
+				<Portuguese>Right</Portuguese>
+				<Russian>Right</Russian>
+				<Spanish>Right</Spanish>
+				<Korean>Right</Korean>
+				<Japanese>右に</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_in_backpack">
+				<Original>Put in Backpack</Original>
+				<English>Put in Backpack</English>
+				<Czech>Put in Backpack</Czech>
+				<French>Put in Backpack</French>
+				<German>In Rucksack legen</German>
+				<Italian>Put in Backpack</Italian>
+				<Polish>Put in Backpack</Polish>
+				<Portuguese>Put in Backpack</Portuguese>
+				<Russian>Put in Backpack</Russian>
+				<Spanish>Put in Backpack</Spanish>
+				<Korean>Put in Backpack</Korean>
+				<Japanese>バックパックに入れる</Japanese>
+			</Key>	
+
+			<Key ID="STR_rnt_gmw_kasten">
+				<Original>GMW ammo box</Original>
+				<English>GMW ammo box</English>
+				<Czech>GMW ammo box</Czech>
+				<French>GMW ammo box</French>
+				<German>GMW Gurtkasten</German>
+				<Italian>GMW ammo box</Italian>
+				<Polish>GMW ammo box</Polish>
+				<Portuguese>GMW ammo box</Portuguese>
+				<Russian>GMW ammo box</Russian>
+				<Spanish>GMW ammo box</Spanish>
+				<Korean>GMW ammo box</Korean>
+				<Japanese>GMW 弾薬箱</Japanese>
+			</Key>	
+
+			<Key ID="STR_in_backpack_gmw">
+				<Original>Take GMW ammo box</Original>
+				<English>Take GMW ammo box</English>
+				<Czech>Take GMW ammo box</Czech>
+				<French>Take GMW ammo box</French>
+				<German>Nehmen GMW Gurtkasten</German>
+				<Italian>Take GMW ammo box</Italian>
+				<Polish>Take GMW ammo box</Polish>
+				<Portuguese>Take GMW ammo box</Portuguese>
+				<Russian>Take GMW ammo box</Russian>
+				<Spanish>Take GMW ammo box</Spanish>
+				<Korean>Take GMW ammo box</Korean>
+				<Japanese>GMW 弾薬箱を取る</Japanese>
+			</Key>	
+
+			<Key ID="STR_gmw_hohe_justieren_hoeher">
+				<Original>GMW adjust height (up)</Original>
+				<English>GMW adjust height (up)</English>
+				<Czech>GMW adjust height (up)</Czech>
+				<French>GMW adjust height (up)</French>
+				<German>GMW Höhe justieren (höher)</German>
+				<Italian>GMW adjust height (up)</Italian>
+				<Polish>GMW adjust height (up)</Polish>
+				<Portuguese>GMW adjust height (up)</Portuguese>
+				<Russian>GMW adjust height (up)</Russian>
+				<Spanish>GMW adjust height (up)</Spanish>
+				<Korean>GMW adjust height (up)</Korean>
+				<Japanese>GMW の高さ調整 (上に)</Japanese>
+			</Key>
+
+			<Key ID="STR_gmw_hohe_justieren_tiefer">
+				<Original>GMW adjust height (down)</Original>
+				<English>GMW adjust height (down)</English>
+				<Czech>GMW adjust height (down)</Czech>
+				<French>GMW adjust height (down)</French>
+				<German>GMW Höhe justieren (tiefer)</German>
+				<Italian>GMW adjust height (down)</Italian>
+				<Polish>GMW adjust height (down)</Polish>
+				<Portuguese>GMW adjust height (down)</Portuguese>
+				<Russian>GMW adjust height (down)</Russian>
+				<Spanish>GMW adjust height (down)</Spanish>
+				<Korean>GMW adjust height (down)</Korean>
+				<Japanese>GMW の高さ調整 (下に)</Japanese>
+			</Key>
+
+			<Key ID="STR_gmw_drehen_links">
+				<Original>GMW turn left</Original>
+				<English>GMW turn left</English>
+				<Czech>GMW turn left</Czech>
+				<French>GMW turn left</French>
+				<German>GMW links drehen</German>
+				<Italian>GMW turn left</Italian>
+				<Polish>GMW turn left</Polish>
+				<Portuguese>GMW turn left</Portuguese>
+				<Russian>GMW turn left</Russian>
+				<Spanish>GMW turn left</Spanish>
+				<Korean>GMW turn left</Korean>
+				<Japanese>GMW を左に向ける</Japanese>
+			</Key>
+
+			<Key ID="STR_gmw_drehen_rechts">
+				<Original>GMW turn right</Original>
+				<English>GMW turn right</English>
+				<Czech>GMW turn right</Czech>
+				<French>GMW turn right</French>
+				<German>GMW rechts drehen</German>
+				<Italian>GMW turn right</Italian>
+				<Polish>GMW turn right</Polish>
+				<Portuguese>GMW turn right</Portuguese>
+				<Russian>GMW turn right</Russian>
+				<Spanish>GMW turn right</Spanish>
+				<Korean>GMW turn right</Korean>
+				<Japanese>GMW を右に向ける</Japanese>
+			</Key>
+
+			<Key ID="STR_gmw_laden">
+				<Original>Reload GMW</Original>
+				<English>Reload GMW</English>
+				<Czech>Reload GMW</Czech>
+				<French>Reload GMW</French>
+				<German>GMW nachladen</German>
+				<Italian>Reload GMW</Italian>
+				<Polish>Reload GMW</Polish>
+				<Portuguese>Reload GMW</Portuguese>
+				<Russian>Reload GMW</Russian>
+				<Spanish>Reload GMW</Spanish>
+				<Korean>Reload GMW</Korean>
+				<Japanese>GMW を再装填</Japanese>
+			</Key>	
+
+			<Key ID="STR_rnt_gmw_static">
+				<Original>GMW (Tripod)</Original>
+				<English>GMW (Tripod)</English>
+				<Czech>GMW (Tripod)</Czech>
+				<French>GMW (Tripod)</French>
+				<German>GMW (Lafette)</German>
+				<Italian>GMW (Tripod)</Italian>
+				<Polish>GMW (Tripod)</Polish>
+				<Portuguese>GMW (Tripod)</Portuguese>
+				<Russian>GMW (Tripod)</Russian>
+				<Spanish>GMW (Tripod)</Spanish>
+				<Korean>GMW (Tripod)</Korean>
+				<Japanese>GMW (三脚)</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_gmw_static_ai">
+				<Original>GMW - AI (Tripod)</Original>
+				<English>GMW - AI (Tripod)</English>
+				<Czech>GMW - AI (Tripod)</Czech>
+				<French>GMW - AI (Tripod)</French>
+				<German>GMW - KI (Lafette)</German>
+				<Italian>GMW - AI (Tripod)</Italian>
+				<Polish>GMW - AI (Tripod)</Polish>
+				<Portuguese>GMW - AI (Tripod)</Portuguese>
+				<Russian>GMW - AI (Tripod)</Russian>
+				<Spanish>GMW - AI (Tripod)</Spanish>
+				<Korean>GMW - AI (Tripod)</Korean>
+				<Japanese>GMW - AI (三脚)</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_gmw_Belt_32_fake">
+				<Original>GMW 32 rounds belt</Original>
+				<English>GMW 32 rounds belt</English>
+				<Czech>GMW 32 rounds belt</Czech>
+				<French>GMW 32 rounds belt</French>
+				<German>GMW 32 Schuss Gurt</German>
+				<Italian>GMW 32 rounds belt</Italian>
+				<Polish>GMW 32 rounds belt</Polish>
+				<Portuguese>GMW 32 rounds belt</Portuguese>
+				<Russian>GMW 32 rounds belt</Russian>
+				<Spanish>GMW 32 rounds belt</Spanish>
+				<Korean>GMW 32 rounds belt</Korean>
+				<Japanese>GMW 32 発入りベルト</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_gmw_kasten_fake">
+				<Original>GMW ammo box</Original>
+				<English>GMW ammo box</English>
+				<Czech>GMW ammo box</Czech>
+				<French>GMW ammo box</French>
+				<German>GMW Gurtkasten</German>
+				<Italian>GMW ammo box</Italian>
+				<Polish>GMW ammo box</Polish>
+				<Portuguese>GMW ammo box</Portuguese>
+				<Russian>GMW ammo box</Russian>
+				<Spanish>GMW ammo box</Spanish>
+				<Korean>GMW ammo box</Korean>
+				<Japanese>GMW 弾薬箱</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_gmw_laden">
+				<Original>Reload</Original>
+				<English>Reload</English>
+				<Czech>Reload</Czech>
+				<French>Reload</French>
+				<German>Nachladen</German>
+				<Italian>Reload</Italian>
+				<Polish>Reload</Polish>
+				<Portuguese>Reload</Portuguese>
+				<Russian>Reload</Russian>
+				<Spanish>Reload</Spanish>
+				<Korean>Reload</Korean>
+				<Japanese>再装填</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_gmw_hoehe_justieren">
+				<Original>Adjust height</Original>
+				<English>Adjust height</English>
+				<Czech>Adjust height</Czech>
+				<French>Adjust height</French>
+				<German>Höhe justieren</German>
+				<Italian>Adjust height</Italian>
+				<Polish>Adjust height</Polish>
+				<Portuguese>Adjust height</Portuguese>
+				<Russian>Adjust height</Russian>
+				<Spanish>Adjust height</Spanish>
+				<Korean>Adjust height</Korean>
+				<Japanese>高さ調整</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_gmw_hohe_justieren_hoeher">
+				<Original>Up</Original>
+				<English>Up</English>
+				<Czech>Up</Czech>
+				<French>Up</French>
+				<German>Höher</German>
+				<Italian>Up</Italian>
+				<Polish>Up</Polish>
+				<Portuguese>Up</Portuguese>
+				<Russian>Up</Russian>
+				<Spanish>Up</Spanish>
+				<Korean>Up</Korean>
+				<Japanese>上に</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_gmw_hohe_justieren_tiefer">
+				<Original>Down</Original>
+				<English>Down</English>
+				<Czech>Down</Czech>
+				<French>Down</French>
+				<German>Tiefer</German>
+				<Italian>Down</Italian>
+				<Polish>Down</Polish>
+				<Portuguese>Down</Portuguese>
+				<Russian>Down</Russian>
+				<Spanish>Down</Spanish>
+				<Korean>Down</Korean>
+				<Japanese>下に</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_gmw_drehen">
+				<Original>Turn</Original>
+				<English>Turn</English>
+				<Czech>Turn</Czech>
+				<French>Turn</French>
+				<German>Drehen</German>
+				<Italian>Turn</Italian>
+				<Polish>Turn</Polish>
+				<Portuguese>Turn</Portuguese>
+				<Russian>Turn</Russian>
+				<Spanish>Turn</Spanish>
+				<Korean>Turn</Korean>
+				<Japanese>方向転換</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_gmw_drehen_links">
+				<Original>Left</Original>
+				<English>Left</English>
+				<Czech>Left</Czech>
+				<French>Left</French>
+				<German>Links</German>
+				<Italian>Left</Italian>
+				<Polish>Left</Polish>
+				<Portuguese>Left</Portuguese>
+				<Russian>Left</Russian>
+				<Spanish>Left</Spanish>
+				<Korean>Left</Korean>
+				<Japanese>左に</Japanese>
+			</Key>
+
+			<Key ID="STR_ACE_gmw_drehen_rechts">
+				<Original>Right</Original>
+				<English>Right</English>
+				<Czech>Right</Czech>
+				<French>Right</French>
+				<German>Rechts</German>
+				<Italian>Right</Italian>
+				<Polish>Right</Polish>
+				<Portuguese>Right</Portuguese>
+				<Russian>Right</Russian>
+				<Spanish>Right</Spanish>
+				<Korean>Right</Korean>
+				<Japanese>右に</Japanese>
+			</Key>
+
+
+
+			<Key ID="STR_rnt_gmw_static_barell">
+				<Original>GMW for tripod</Original>
+				<English>GMW for tripod</English>
+				<Czech>GMW for tripod</Czech>
+				<French>GMW for tripod</French>
+				<German>GMW für Lafette</German>
+				<Italian>GMW for tripod</Italian>
+				<Polish>GMW for tripod</Polish>
+				<Portuguese>GMW for tripod</Portuguese>
+				<Russian>GMW for tripod</Russian>
+				<Spanish>GMW for tripod</Spanish>
+				<Korean>GMW for tripod</Korean>
+				<Japanese>GMW 用三脚</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_gmw_static_tripod">
+				<Original>Tripod for GMW</Original>
+				<English>Tripod for GMW</English>
+				<Czech>Tripod for GMW</Czech>
+				<French>Tripod for GMW</French>
+				<German>Lafette für GMW</German>
+				<Italian>Tripod for GMW</Italian>
+				<Polish>Tripod for GMW</Polish>
+				<Portuguese>Tripod for GMW</Portuguese>
+				<Russian>Tripod for GMW</Russian>
+				<Spanish>Tripod for GMW</Spanish>
+				<Korean>Tripod for GMW</Korean>
+				<Japanese>GMW 用三脚</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_gmw_static_barell_ai">
+				<Original>GMW for tripod - AI</Original>
+				<English>GMW for tripod - AI</English>
+				<Czech>GMW for tripod - AI</Czech>
+				<French>GMW for tripod - AI</French>
+				<German>GMW für Lafette - KI</German>
+				<Italian>GMW for tripod - AI</Italian>
+				<Polish>GMW for tripod - AI</Polish>
+				<Portuguese>GMW for tripod - AI</Portuguese>
+				<Russian>GMW for tripod - AI</Russian>
+				<Spanish>GMW for tripod - AI</Spanish>
+				<Korean>GMW for tripod - AI</Korean>
+				<Japanese>GMW 用三脚 - AI</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_gmw_static_tripod_ai">
+				<Original>Tripod for GMW - AI</Original>
+				<English>Tripod for GMW - AI</English>
+				<Czech>Tripod for GMW - AI</Czech>
+				<French>Tripod for GMW - AI</French>
+				<German>Lafette für GMW - KI</German>
+				<Italian>Tripod for GMW - AI</Italian>
+				<Polish>Tripod for GMW - AI</Polish>
+				<Portuguese>Tripod for GMW - AI</Portuguese>
+				<Russian>Tripod for GMW - AI</Russian>
+				<Spanish>Tripod for GMW - AI</Spanish>
+				<Korean>Tripod for GMW - AI</Korean>
+				<Japanese>GMW 用三脚 - AI</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_Cases">
+				<Original>Ammunition cases</Original>
+				<English>Ammunition cases</English>
+				<Czech>Ammunition cases</Czech>
+				<French>Ammunition cases</French>
+				<German>Munitionskästen</German>
+				<Italian>Ammunition cases</Italian>
+				<Polish>Ammunition cases</Polish>
+				<Portuguese>Ammunition cases</Portuguese>
+				<Russian>Ammunition cases</Russian>
+				<Spanish>Ammunition cases</Spanish>
+				<Korean>Ammunition cases</Korean>
+				<Japanese>弾薬ケース</Japanese>
+			</Key>
+
+			<Key ID="STR_Redd_Structures">
+				<Original>RnT Structures</Original>
+				<English>RnT Structures</English>
+				<Czech>RnT Structures</Czech>
+				<French>RnT Structures</French>
+				<German>RnT Strukturen</German>
+				<Italian>RnT Structures</Italian>
+				<Polish>RnT Structures</Polish>
+				<Portuguese>RnT Structures</Portuguese>
+				<Russian>RnT Structures</Russian>
+				<Spanish>RnT Structures</Spanish>
+				<Korean>RnT Structures</Korean>
+				<Japanese>RnT 構造物</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_graben_bunker">
+				<Original>Trench-Bunker</Original>
+				<English>Trench-Bunker</English>
+				<Czech>Trench-Bunker</Czech>
+				<French>Trench-Bunker</French>
+				<German>Schützengraben-Bunker</German>
+				<Italian>Trench-Bunker</Italian>
+				<Polish>Trench-Bunker</Polish>
+				<Portuguese>Trench-Bunker</Portuguese>
+				<Russian>Trench-Bunker</Russian>
+				<Spanish>Trench-Bunker</Spanish>
+				<Korean>Trench-Bunker</Korean>
+				<Japanese>塹壕 - 掩蔽壕</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_graben_ecke">
+				<Original>Trench-Corner</Original>
+				<English>Trench-Corner</English>
+				<Czech>Trench-Corner</Czech>
+				<French>Trench-Corner</French>
+				<German>Schützengraben-Ecke</German>
+				<Italian>Trench-Corner</Italian>
+				<Polish>Trench-Corner</Polish>
+				<Portuguese>Trench-Corner</Portuguese>
+				<Russian>Trench-Corner</Russian>
+				<Spanish>Trench-Corner</Spanish>
+				<Korean>Trench-Corner</Korean>
+				<Japanese>塹壕 - 角</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_graben_ende">
+				<Original>Trench-End</Original>
+				<English>Trench-End</English>
+				<Czech>Trench-End</Czech>
+				<French>Trench-End</French>
+				<German>Schützengraben-Ende</German>
+				<Italian>Trench-End</Italian>
+				<Polish>Trench-End</Polish>
+				<Portuguese>Trench-End</Portuguese>
+				<Russian>Trench-End</Russian>
+				<Spanish>Trench-End</Spanish>
+				<Korean>Trench-End</Korean>
+				<Japanese>塹壕 - 終端</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_graben_gerade">
+				<Original>Trench-Straight</Original>
+				<English>Trench-Straight</English>
+				<Czech>Trench-Straight</Czech>
+				<French>Trench-Straight</French>
+				<German>Schützengraben-Gerade</German>
+				<Italian>Trench-Straight</Italian>
+				<Polish>Trench-Straight</Polish>
+				<Portuguese>Trench-Straight</Portuguese>
+				<Russian>Trench-Straight</Russian>
+				<Spanish>Trench-Straight</Spanish>
+				<Korean>Trench-Straight</Korean>
+				<Japanese>塹壕 - 直線</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_graben_stand">
+				<Original>Trench-Stand</Original>
+				<English>Trench-Stand</English>
+				<Czech>Trench-Stand</Czech>
+				<French>Trench-Stand</French>
+				<German>Schützengraben-Stand</German>
+				<Italian>Trench-Stand</Italian>
+				<Polish>Trench-Stand</Polish>
+				<Portuguese>Trench-Stand</Portuguese>
+				<Russian>Trench-Stand</Russian>
+				<Spanish>Trench-Stand</Spanish>
+				<Korean>Trench-Stand</Korean>
+				<Japanese>塹壕 - 立射用</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_graben_stellung">
+				<Original>Trench-Position</Original>
+				<English>Trench-Position</English>
+				<Czech>Trench-Position</Czech>
+				<French>Trench-Position</French>
+				<German>Schützengraben-Stellung</German>
+				<Italian>Trench-Position</Italian>
+				<Polish>Trench-Position</Polish>
+				<Portuguese>Trench-Position</Portuguese>
+				<Russian>Trench-Position</Russian>
+				<Spanish>Trench-Position</Spanish>
+				<Korean>Trench-Position</Korean>
+				<Japanese>塹壕 - 射撃位置</Japanese>
+			</Key>
+
+			<Key ID="STR_rnt_graben_t">
+				<Original>Trench-'T'</Original>
+				<English>Trench-'T'</English>
+				<Czech>Trench-'T'</Czech>
+				<French>Trench-'T'</French>
+				<German>Schützengraben-'T'</German>
+				<Italian>Trench-'T'</Italian>
+				<Polish>Trench-'T'</Polish>
+				<Portuguese>Trench-'T'</Portuguese>
+				<Russian>Trench-'T'</Russian>
+				<Spanish>Trench-'T'</Spanish>
+				<Korean>Trench-'T'</Korean>
+				<Japanese>塹壕 - T 字型</Japanese>
+			</Key>
+			
+		</Package>
+
+	</Project>

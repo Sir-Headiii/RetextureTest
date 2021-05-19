@@ -1,0 +1,19 @@
+name = "Redd'n'Tank Vehicl"
+prefix = "rnt"
+author = "Salbei"
+files = [
+    "mod.cpp",
+    "redd_logo.paa",
+    "LICENSE",
+    "README.md"
+]
+
+key_name = "{{prefix}}_{{version}}"
+authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
+
+releasebuild = [
+    "@zip rnt_{{semver.major}}.{{semver.minor}}.{{semver.patch}}.{{semver.build}}"
+]
+
+[header_exts]
+version= "{{git \"id 8\"}}"

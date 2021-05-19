@@ -1,0 +1,17 @@
+releases/*
+build_keys/*
+keys/*
+.hemtt/local
+/a3/
+/x/
+
+*.pbo
+*.cache
+*.biprivatekey
+*.blend
+*.blend1
+*.p3d
+*.paa
+*.rtm
+*.ogg
+*.wss
